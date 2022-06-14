@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="animaisgerente.component.css" rel="stylesheet"/>
+  <title>Gerente - Animais</title>
+</head>
+<body>
+  <nav class="side-bar">
+    <div class="logo-container">
+        <img src="{{logoSrc}}" class="logo" style="cursor:pointer" routerLink="/gerente">
+    </div>
+    <div class="buttons-container">
+        <ul class="buttons-list">
+            <a href="/gerente"><li>
+                Início
+            </li></a>
+            <a href="/gerente/servicos">
+                <li>
+                    Histórico
+                </li>
+            </a>
+            <a href="/gerente/gerirfuncionarios">
+                <li>
+                    Funcionários
+                </li>
+            </a>
+            <a href="/gerente/veranimais">
+                <li class="selected">
+                    Animais
+                </li>
+            </a>
+            <a href="/gerente/ajuda">
+              <li>
+                  Ajuda
+              </li>
+          </a>
+          <a routerLink="/gerente/faltar">
+            <li>
+                Pedido Faltar
+            </li>
+          </a>
+          <a routerLink="/gerente/avaliacoes">
+            <li>
+                Avaliações
+            </li>
+        </a>
+          <a href="/funcionario/login" (click)="logout()">
+            <li>
+                Sair
+            </li>
+        </a>
+
+        </ul>
+    </div>
+</nav>
+<div class="content">
+    <div class="top-content">
+        <div class="left-container">
+            <ul class="navigation-buttons-container">
+            </ul>
+        </div>
+        <div class="right-container">
+            <h2>{{funcionario.Nome}} {{funcionario.Apelido}}</h2>
+            <img src="{{funcionario.FuncionarioFoto}}" alt="Clinica">
+        </div>
+    </div>
+    <div class="bottom-content">
+        <div class="open-animal-container" *ngIf="editAtivo==1">
+            <form (ngSubmit)="updateAnimal($event)">
+
+
+                <label>
+                    Nome
+                </label>
+                <input type="text" name="Nome" [ngModel]="animalEdit.Nome" disabled><br>
+
+
+                <label>
+                    Altura
+                </label>
+                <input type="text" name="Altura" [ngModel]="animalEdit.Altura"><br>
+
+                <label>
+                    Peso
+                </label>
+                <input type="text" name="Peso" [ngModel]="animalEdit.Peso"><br>
+
+
+                <label>
+                    Classe
+                </label>
+                <input type="text" name="Classe" [ngModel]="animalEdit.Classe" disabled><br>
+
+
+                <label>
+                    Data de Nascimento
+                </label>
+                <input type="datetime-local" name="DataNascimento" [ngModel]="animalEdit.DataNascimento"><br>
+
+
+
+                <label>
+                    Especie
+                </label>
+                <input type="text" name="Especie" [ngModel]="animalEdit.Especie"><br>
+
+                <label>
+                    Estado
+                </label>
+                <select name="Estado" [ngModel]="animalEdit.Estado">
+                    <option>Ativo</option>
+                    <option>Verificado</option>
+                    <option>Inativo</option>
+                    <option>Arquivado</option>
+                </select><br>
+
+                <label>
+                    Genero
+                </label>
+                <select name="Genero" [ngModel]="animalEdit.Genero">
+                    <option>Macho</option>
+                    <option>Fêmea</option>
+                </select><br>
+
+
+                <button type="submit">Confirmar</button>
+                <button (click)="changeEditarStatus(0)">Cancelar</button>
+            </form>
+
+        </div>
+        <div class="table-container">
+            <table>
+                <tr class="table-header">
+                    <th width="18%">Foto</th>
+                    <th width="18%">Nome</th>
+                    <th width="18%">Dono</th>
+                    <th width="18%">E-mail</th>
+                    <th class="buttons-header" >
+                        <input type="text" placeholder="Pesquisar" [(ngModel)]="filterText">
+                    </th>
+                </tr>
+                <tr *ngFor="let animais of animais | filter:filterText" class="table-row">
+                    <td class="td-img"><img src="{{animais.AnimalFoto}}" alt="Animal"></td>
+                    <td class="name">{{animais.Nome}}</td>
+                    <td>{{animais.NomeCliente}}</td>
+                    <td>{{animais.EmailCliente}}</td>
+                    <td>
+                        <button class="btn-call-to-action" (click)="editar(animais)">
+                            Detalhes
+                        </button>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</div>
+</body>
+</html>

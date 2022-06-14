@@ -1,0 +1,77 @@
+.tablesection{
+    display: flex;
+    flex-direction: column;
+    width: 85%;
+    object-position: center;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.table{
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid #ddd;
+    table-layout: fixed;
+}
+
+tr:nth-child(even), th{
+    background-color: #edecec;
+}
+
+.filter{
+    display: flex;
+    align-self: flex-end;
+    justify-content: center;
+    gap: 10px;
+    width: 50%;
+    margin-bottom: 10px;
+}
+
+.filtertext{
+    border-radius: 15px 15px 15px 15px;
+    width: 100%;
+    padding: 5px;
+}
+
+.filterbutton{
+    font-family: Poppins-Regular, sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 2px 25px 2px 25px;
+    cursor: pointer;
+    background-color: white;
+    color: #5C2976;
+    border: 2px solid #5C2976;
+    border-radius: 15px 15px 15px 15px;
+}
+
+.filterbutton:hover{
+    background-color: #5C2976;
+    color: white;
+    border: 2px solid #5C2976;
+}
+
+.filterbutton:active{
+    background-color: white;
+    color: #5C2976;
+    border: 2px solid #5C2976;
+}
+
+th, td {
+    cursor: pointer;
+    text-align: center;
+    border-top: 1px solid #ddd;
+    border-top: 1px solid #ddd;
+    padding: 16px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+tr:hover{
+    background-color: rgb(182, 182, 182);
+}
+
+th:hover{
+    background-color: #edecec;
+    cursor:auto;
+}

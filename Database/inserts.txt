@@ -1,0 +1,126 @@
+--Povoamento Animais
+insert into Animal (nome, peso, altura, data_nascimento, classe, especie, genero, estado) values ('Nikita',0.75,6.3,'2016-03-16','Cao','Colly','Feminino','Ativo');
+insert into Animal (nome, peso, altura, data_nascimento, classe, especie, genero, estado) values ('Piriquito',0.15,1.8,'2017-03-20','Passaro','Piu-Piu','Masculino','Ativo');
+insert into Animal (nome, peso, altura, data_nascimento, classe, especie, genero, estado) values ('Zoe',0.50,5,'2016-05-11','Gato','Persian','Feminino','Inativo');
+insert into Animal (nome, peso, altura, data_nascimento, classe, especie, genero, estado) values ('Luna',1.65,21.4,'2017-06-03','Cao','Pastor-Alemao','Feminino','Ativo');
+insert into Animal (nome, peso, altura, data_nascimento, classe, especie, genero, estado) values ('Toretto',0.75,6.3,'2016-03-16','Cao','Colly','Masculino','Ativo');
+insert into Animal (nome, peso, altura, data_nascimento, classe, especie, genero, estado) values ('Becas',7,40,'2017-03-22','Jacaré','Meigo','Masculino','Ativo');
+insert into Animal (nome, peso, altura, data_nascimento, classe, especie, genero, estado) values ('Rufus',0.50,5,'2016-05-21','Gato','Persian','Masculino','Ativo');
+
+--Povoamento Moradas para users
+insert into Morada (rua, porta, andar, codigo_postal, freguesia, distrito, concelho, pais) values ('Praceta Abeato',64,2,'4007-663','S.Vicente','Braga','Braga','Portugal');
+insert into Morada (rua, porta, codigo_postal, freguesia, distrito, concelho, pais) values ('Rua Antonio Jose Fidalgo',351,'4568-457','Nogueira','Braga','Braga','Portugal');
+insert into Morada (rua, porta, andar, codigo_postal, freguesia, distrito, concelho, pais) values ('Rua Almeiro da Pedrada',120,1,'4000-100','Penha','Guimarães','Monsanto','Portugal');
+insert into Morada (rua, porta, andar, codigo_postal, freguesia, distrito, concelho, pais) values ('Avenida Fernando Albardo',12,7,'4500-453','Vila Nova de Famalicão','Arnoso','Braga','Portugal');
+insert into Morada (rua, porta, codigo_postal, freguesia, distrito, concelho, pais) values ('Rua Jose Saramago',42,'3450-574','Azinhaga','Santarém','Golegã','Portugal');
+--Povoamento Moradas para clinicas
+insert into Morada (rua, porta, codigo_postal, freguesia, distrito, concelho, pais) values ('Rua Jose Saramago',48,'3450-510','Azinhaga','Santarém','Golegã','Portugal');
+insert into Morada (rua, porta, codigo_postal, freguesia, distrito, concelho, pais) values ('Rua S.Lázaro',42,'3450-574','S.Vicente','Braga','Braga','Portugal');
+
+--Povoamento Clientes
+insert into Cliente (nome, apelido, email, telemovel, pass, tipo_conta, valor_conta, estado) values ('Alberto','Caeiro','ac123@gmail.com',966451254,'ac123','mensal',1.99,'Ativo');
+insert into Cliente (nome, apelido, email, telemovel, pass, tipo_conta, valor_conta, estado) values ('Jose','Teixeira','jt123@gmail.com',123456879,'jt123','anual',17.99,'Ativo');
+insert into Cliente (nome, apelido, email, telemovel, pass, tipo_conta, valor_conta, estado) values ('Ines','Carvalho','ic123@gmail.com',546897231,'ic123','gratis',0,'Ativo');
+insert into Cliente (nome, apelido, email, telemovel, pass, tipo_conta, valor_conta, estado) values ('Mariana','Hilario','mh123@gmail.com',913568752,'mh123','anual',17.99,'Ativo');
+insert into Cliente (nome, apelido, email, telemovel, pass, tipo_conta, valor_conta, estado) values ('Delfina','Caeiro','dc123@gmail.com',987555126,'dc123','gratis',0,'Inativo');
+insert into Cliente (nome, apelido, email, telemovel, pass, tipo_conta, valor_conta, estado) values ('Candido','Faisca','cf123@gmail.com',111111111,'cf123','mensal',1.99,'Ativo');
+
+--Povoamento Clinicas
+insert into Clinica (nome, estado, id_morada, contacto) values ('PetLife', 'Ativo', 6, 253154879);
+insert into Clinica (nome, estado, id_morada, contacto) values ('AnimaisSaudaveis Inc.', 'Ativo', 7, 253766135);
+
+--Povoamento Cliente_Animal
+insert into Cliente_Animal (id_cliente, id_animal) values (1,4);
+insert into Cliente_Animal (id_cliente, id_animal) values (2,7);
+insert into Cliente_Animal (id_cliente, id_animal) values (3,6);
+insert into Cliente_Animal (id_cliente, id_animal) values (4,1);
+insert into Cliente_Animal (id_cliente, id_animal) values (5,3);
+insert into Cliente_Animal (id_cliente, id_animal) values (6,2);
+insert into Cliente_Animal (id_cliente, id_animal) values (6,5);
+
+--Povoamento Medicamentos Clinica 1
+insert into Medicamento (id_clinica, nome, descricao, volume, stock, preco) values (1, 'NaturVet', 'Probioticos e Enzimas para Caes',120,5,32.64);
+insert into Medicamento (id_clinica, nome, descricao, volume, stock, preco) values (1, 'CondroVet', 'Condroprotector para cães com problemas de articulações como artroses e processos degenerativos das cartilagens. Com sulfato de condroitina, glucosamina e ácido hialurónico',120,12,52.99);
+insert into Medicamento (id_clinica, nome, descricao, volume, stock, preco) values (1, 'Gelekfreund', 'Suplemento Canino de promoção ao tecido conjuntivo',130,11,14.48);
+insert into Medicamento (id_clinica, nome, descricao, volume, stock, preco) values (1, 'Coatex', 'Suplemento alimentar em forma de cápsula adequado para cães e gatos.',60,20,16.79);
+insert into Medicamento (id_clinica, nome, descricao, volume, stock, preco) values (1, 'Advantix', 'Desparazitante Canino',400,45,19.50);
+--Povoamento Medicamentos Clinica 2
+insert into Medicamento (id_clinica, nome, descricao, volume, stock, preco) values (2, 'NaturVet', 'Probioticos e Enzimas para Caes',120,25,32.64);
+insert into Medicamento (id_clinica, nome, descricao, volume, stock, preco) values (2, 'CondroVet', 'Condroprotector para cães com problemas de articulações como artroses e processos degenerativos das cartilagens. Com sulfato de condroitina, glucosamina e ácido hialurónico',120,0,52.99);
+insert into Medicamento (id_clinica, nome, descricao, volume, stock, preco) values (2, 'Gelekfreund', 'Suplemento Canino de promoção ao tecido conjuntivo',130,2,14.48);
+insert into Medicamento (id_clinica, nome, descricao, volume, stock, preco) values (2, 'Coatex', 'Suplemento alimentar em forma de cápsula adequado para cães e gatos.',60,20,20.79);
+insert into Medicamento (id_clinica, nome, descricao, volume, stock, preco) values (2, 'Advantix', 'Desparazitante Canino',400,60,19.50);
+
+--Povoamento Avaliacao_Clinica_Utilizador
+insert into Avaliacao_Clinica_Utilizador (id_clinica, id_cliente, avaliacao, texto, data_avaliacao) values (1,3,4,'Ótimo Serviço','2021-02-12');
+insert into Avaliacao_Clinica_Utilizador (id_clinica, id_cliente, avaliacao, texto, data_avaliacao) values (1,2,5,'Simpáticos e o meu cao adorou-os','2022-03-15');
+insert into Avaliacao_Clinica_Utilizador (id_clinica, id_cliente, avaliacao, texto, data_avaliacao) values (1,1,4,'Excelente Atendimento','2019-03-20');
+insert into Avaliacao_Clinica_Utilizador (id_clinica, id_cliente, avaliacao, texto, data_avaliacao) values (1,3,3,'Eficazes na tratamento do meu animal, mas atendimento fraco','2022-10-23');
+insert into Avaliacao_Clinica_Utilizador (id_clinica, id_cliente, avaliacao, texto, data_avaliacao) values (1,4,4,'Biscoitos fixes', '2021-01-01');
+insert into Avaliacao_Clinica_Utilizador (id_clinica, id_cliente, avaliacao, texto, data_avaliacao) values (1,6,5,'Saí de lá de graça', '2021-11-31');
+
+--Povoamento Veterinarios
+insert into Veterinario (nome, apelido, estado, especialidade, email, telemovel, pass, codigo) values ('Sergio','Ribeiro','Ativo','Cardiologia','srmedico@sapo.pt',456879213,'srmedico',1577851354);
+insert into Veterinario (nome, apelido, estado, especialidade, email, telemovel, pass, codigo) values ('Carla','Ribeiro','Ativo','Veterinario-Geral','crmedico@sapo.pt',748622157,'crmedico',5461651351);
+insert into Veterinario (nome, apelido, estado, especialidade, email, telemovel, pass, codigo) values ('Pedro','Gemeo','Inativo','Cardiologia','pgmedico@sapo.pt',123456789,'pgmedico',978751354);
+insert into Veterinario (nome, apelido, estado, especialidade, email, telemovel, pass, codigo) values ('Orlando','Fontainhas','Ativo','Veterinario-Geral','ofmedico@sapo.pt',964582137,'ofmedico',165421967);
+
+--Povoamento Veterinario_Clinica
+insert into Veterinario_Clinica (id_veterinario, id_clinica, data_inicio) values (1,1,'2010-05-03');
+insert into Veterinario_Clinica (id_veterinario, id_clinica,data_inicio,data_fim) values (3,1,'2010-05-03','2015-05-03');
+insert into Veterinario_Clinica (id_veterinario, id_clinica,data_inicio) values (2,2,'2010-05-03');
+insert into Veterinario_Clinica (id_veterinario, id_clinica,data_inicio) values (4,2,'2010-05-03');
+
+--Povoamento Clinica_Gerente
+insert into Clinica_Gerente(id_veterinario, id_clinica) values (1,1);
+insert into Clinica_Gerente(id_veterinario, id_clinica) values (2,2);
+
+--Povoamento Notificacao
+insert into Notificacao(id_cliente, estado, descricao, data_notificacao) values (1, 'Não Lida', 'Consulta amanha - Luna', '2022-03-09');
+insert into Notificacao(id_cliente, estado, descricao, data_notificacao) values (1, 'Lida', 'Medicação - Luna', '2022-02-22');
+insert into Notificacao(id_cliente, estado, descricao, data_notificacao) values (1, 'Lida', 'Consulta amanha - Luna', '2022-03-08');
+insert into Notificacao(id_cliente, estado, descricao, data_notificacao) values (2, 'Não Lida', 'Consulta amanha - Rufus', '2022-03-06');
+insert into Notificacao(id_cliente, estado, descricao, data_notificacao) values (4, 'Não Lida', 'Consulta amanha - Nikita', '2022-03-01');
+insert into Notificacao(id_cliente, estado, descricao, data_notificacao) values (6, 'Lida', 'Consulta amanha - Piriquito', '2021-02-15');
+insert into Notificacao(id_cliente, estado, descricao, data_notificacao) values (6, 'Não Lida', 'Consulta amanha - Toretto', '2022-02-09');
+
+--Povoamento Serviço_Catalogo
+insert into Servico_Catalogo (id_clinica, estado, tipo, preco, descricao) values (1, 'Disponivel', 'Consulta Check-Up', 10.99, 'Consulta de Rotina para verificar o estado atual do bixinho');
+insert into Servico_Catalogo (id_clinica, estado, tipo, preco, descricao) values (1, 'Disponivel', 'Castração', 40.99, 'Privação dos órgãos essenciais à reprodução animal');
+insert into Servico_Catalogo (id_clinica, estado, tipo, preco, descricao) values (1, 'Disponivel', 'Vacinação', 20.99, 'Vacina da Raiva');
+insert into Servico_Catalogo (id_clinica, estado, tipo, preco, descricao) values (1, 'Disponivel', 'Análises', 25.99, 'Análises ao animal');
+insert into Servico_Catalogo (id_clinica, estado, tipo, preco, descricao) values (2, 'Disponivel', 'Consulta Check-Up', 12.99, 'Consulta de Rotina para verificar o estado atual do bixinho');
+insert into Servico_Catalogo (id_clinica, estado, tipo, preco, descricao) values (2, 'Disponivel', 'Castração', 42.99, 'Privação dos órgãos essenciais à reprodução animal');
+insert into Servico_Catalogo (id_clinica, estado, tipo, preco, descricao) values (2, 'Disponivel', 'Vacinação', 22.99, 'Vacina da Raiva');
+insert into Servico_Catalogo (id_clinica, estado, tipo, preco, descricao) values (2, 'Disponivel', 'Análises', 27.99, 'Análises ao animal');
+
+--Povoamento Serviço
+insert into Servico (id_cliente, id_animal, id_veterinario, id_clinica, id_servico_catalogo, data_servico, descricao, estado) values (1,4,2,2,1,'2022-03-29','Consulta Check-Up', 'Concluida');
+insert into Servico (id_cliente, id_animal, id_veterinario, id_clinica, id_servico_catalogo, data_servico, descricao, estado) values (2,7,1,1,3,'2022-06-20','Vacinação', 'Por Fazer');
+insert into Servico (id_cliente, id_animal, id_veterinario, id_clinica, id_servico_catalogo, data_servico, descricao, estado) values (3,6,4,2,1,'2022-02-15','Consulta Check-Up', 'Concluida');
+insert into Servico (id_cliente, id_animal, id_veterinario, id_clinica, id_servico_catalogo, data_servico, descricao, estado) values (6,2,4,2,1,'2021-11-31','Consulta Check-Up', 'Concluida');
+
+--Povoamento Prescricao
+insert into Prescricao (estado, descricao, data_expericacao) values ('Por levantar', 'Medicacao 1', '2023-12-10');
+insert into Prescricao (estado, descricao, data_expericacao) values ('Levantada', 'Medicacao 2', '2023-02-12');
+
+--Povoamento Servico_Prescricao
+insert into Servico_Prescricao (id_servico, id_prescricao) values (1,1);
+insert into Servico_Prescricao (id_servico, id_prescricao) values (3,2);
+
+--Povoamento Tratamento
+insert into Tratamento (id_prescricao, id_medicamento, quantidade) values (1,1,1);
+insert into Tratamento (id_prescricao, id_medicamento, quantidade) values (2,2,2);
+
+--Povoamento Horario_Clinica
+insert into Horario_Clinica (id_clinica, horario_abertura, horario_encerramento, dia_semana) values (1, '08:00', '19:30', 'Segunda');
+insert into Horario_Clinica (id_clinica, horario_abertura, horario_encerramento, dia_semana) values (1, '08:00', '19:30', 'Terça');
+insert into Horario_Clinica (id_clinica, horario_abertura, horario_encerramento, dia_semana) values (1, '08:00', '19:30', 'Quarta');
+insert into Horario_Clinica (id_clinica, horario_abertura, horario_encerramento, dia_semana) values (1, '08:00', '19:30', 'Quinta');
+insert into Horario_Clinica (id_clinica, horario_abertura, horario_encerramento, dia_semana) values (1, '08:00', '19:30', 'Sexta');
+insert into Horario_Clinica (id_clinica, horario_abertura, horario_encerramento, dia_semana) values (1, '11:00', '16:30', 'Sábado');
+
+insert into Horario_Clinica (id_clinica, horario_abertura, horario_encerramento, dia_semana) values (2, '08:00', '12:30', 'Segunda');
+insert into Horario_Clinica (id_clinica, horario_abertura, horario_encerramento, dia_semana) values (2, '08:00', '19:30', 'Terça');
+insert into Horario_Clinica (id_clinica, horario_abertura, horario_encerramento, dia_semana) values (2, '08:00', '11:30', 'Sexta');
+insert into Horario_Clinica (id_clinica, horario_abertura, horario_encerramento, dia_semana) values (2, '14:00', '17:30', 'Sexta');

@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="servicosgerente.component.css" rel="stylesheet"/>
+  <title>Document</title>
+</head>
+<body>
+  <nav class="side-bar">
+    <div class="logo-container">
+        <img src="{{logoSrc}}" class="logo" style="cursor:pointer" routerLink="/gerente">
+    </div>
+    <div class="buttons-container">
+        <ul class="buttons-list">
+            <a routerLink="/gerente"><li>
+                Início
+            </li></a>
+
+            <a routerLink="/gerente/servicos">
+                <li class="selected">
+                    Histórico
+                </li>
+            </a>
+            <a routerLink="/gerente/gerirfuncionarios">
+                <li>
+                    Funcionários
+                </li>
+            </a>
+            <a routerLink="/gerente/veranimais">
+                <li>
+                    Animais
+                </li>
+            </a>
+            <a routerLink="/gerente/faltar">
+              <li>
+                  Pedido Faltar
+              </li>
+            </a>
+            <a routerLink="/gerente/ajuda">
+              <li>
+                  Ajuda
+              </li>
+            </a>
+            <a routerLink="/gerente/avaliacoes">
+                <li>
+                    Avaliações
+                </li>
+            </a>
+            <a routerLink="/funcionario/login" (click)="logout()">
+              <li>
+                  Sair
+              </li>
+            </a>
+        </ul>
+    </div>
+</nav>
+<div class="content">
+    <div class="top-content">
+        <div class="left-container">
+            <ul class="navigation-buttons-container">
+            </ul>
+        </div>
+        <div class="right-container">
+            <h2>{{funcionario.Nome}} {{funcionario.Apelido}}</h2>
+            <img src="{{funcionario.FuncionarioFoto}}" alt="Clinica">
+        </div>
+    </div>
+    <div class="bottom-content">
+        <div class="open-service-container" *ngIf="editAtivo==1">
+            <form (ngSubmit)="updateServico($event)">
+                <label>
+                    Data
+                </label>
+                <input type="datetime-local" [ngModel]="servicoEdit.DataServico" name="DataServico"><br>
+
+                <label>
+                    Estado
+                </label>
+                <select [ngModel]="servicoEdit.Estado" name="Estado">
+                    <option>Marcado</option>
+                    <option>Cancelado</option>
+                    <option>Concluido</option>
+                    <option>Arquivado</option>
+                </select><br>
+                <button type="submit">Confirmar</button>
+                <button (click)="changeEditarStatus(0)">Cancelar</button>
+            </form>
+
+        </div>
+        <div class="table-container">
+            <table>
+                <tr class="table-header">
+                    <th width="15%">Foto</th>
+                    <th width="15%">Nome</th>
+                    <th width="15%">Tipo</th>
+                    <th width="15%">Data</th>
+                    <th width="15%">Estado</th>
+                    <th class="buttons-header" >
+                        <input type="text" placeholder="Pesquisar" [(ngModel)]="filterText">
+                    </th>
+                </tr>
+                <tr *ngFor="let servicos of servicos | filter:filterText" class="table-row">
+                    <td class="td-img"><img src="{{servicos.AnimalFoto}}" alt="Animal"></td>
+                    <td class="name">{{servicos.NomeAnimal}}</td>
+                    <td>{{servicos.TipoServico}}</td>
+                    <td>{{servicos.DataServico | date: 'dd/MM/yyyy, HH:mm'}}</td>
+                    <td>{{servicos.Estado}}</td>
+                    <td>
+                        <button class="btn-call-to-action" (click)="editar(servicos)">
+                            Editar
+                        </button>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</div>
+</body>
+</html>
+

@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+  <link rel="stylesheet" type="text/css" routerLink="login.component.css" />
+</head>
+
+<body>
+  <main>
+    <a class="links" id="paralogin"></a>
+    <a class="links" id="pararecuperar"></a>
+
+    <div class="content">
+
+      <!--LOGIN-->
+      <div id="login" class="log">
+        <form (ngSubmit)="login()">
+
+          <img src="../../assets/images/logo.svg" class="logo">
+
+          <div class="inputs">
+            <input [(ngModel)]="Cod" name="Cod" id="code" type="number" placeholder="Código clinico" />
+          </div>
+
+          <div class="pass">
+            <input [(ngModel)]="Pass" name="Pass" id="pass" type="password" placeholder="Palavra-passe">
+            <span type="image" (click)="MostraPass()">
+              <img class="eye" src="../../assets/images/eye.png">
+            </span>
+          </div>
+
+          <p>
+            <input type="submit" value="Entrar" />
+          </p>
+
+          <div id="recuperarPass">
+            <a href="/funcionario/login/#recuperar">Esqueci-me da palavra passe</a>
+          </div>
+
+        </form>
+
+      </div>
+
+      <!--RECUPERAR PASS-->
+      <div id="recuperar" class="rec">
+        <form>
+
+          <img src="../../assets/images/logo.svg" class="logo">
+
+
+          <div class="inputs">
+            <input type="email" placeholder="E-mail" />
+          </div>
+
+          <p>
+            <input type="submit" value="Submeter" />
+          </p>
+
+          <div id="recuperarPass">
+            <a href="/funcionario/login/#paralogin">Voltar</a>
+          </div>
+
+        </form>
+
+      </div>
+    </div>
+
+    <div class="content">
+      <img src="../../assets/images/login.png" class="image">
+    </div>
+
+  </main>
+</body>
+
+</html>
+
+<router-outlet></router-outlet>

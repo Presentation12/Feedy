@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="ajuda-cliente.component.css" rel="stylesheet"/>
+    <title>User Historico</title>
+</head>
+<body>
+    <div class ="section">
+        <div class="modalhelp">
+            <img src="../../assets/images/checked.png" class = "checked">
+            <div style ="display:flex;flex-direction:column">
+                <a>O seu e-mail foi enviado com sucesso!</a>
+                <a>Aguarde pelo nosso contacto</a>
+            </div>
+            <button type="submit" form="help" class ="continuarBtn" (click)="ContinueSubmit()">Continuar</button>
+        </div>
+        <div class="modalhelp2">
+            <img src="../../assets/images/error.png" class = "checked">
+            <div style ="display:flex;flex-direction:column">
+                <a>Tem campos por preencher!</a>
+            </div>
+            <button class ="continuarBtn2" (click)="ContinueSubmit2()">Continuar</button>
+        </div>
+        <div class="top_navbar">
+          <div class = "dropdown">
+            <img src="../../assets/images/notifications.jpg" class = "notifications">
+            <div class="dropdown-content-not" style="left:0;">
+                <div class = "tablenot">
+                    <div class = "notrow" *ngFor="let notificacao of NotificacoesList" (click)="deleteNotificacao(notificacao)">
+                        <a class = "nottext">{{notificacao.Descricao}}</a>
+                        <a>{{ notificacao.DataNotificacao | date:"dd/MM/yy" }}</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+            <div class ="topPerfil">
+              <a>{{Cliente.Nome}} {{Cliente.Apelido}}</a>
+              <div class = "dropdown" style="float:right;">
+                  <img src="{{Cliente.ClienteFoto}}" class="perfil">
+                  <div class="dropdown-content">
+                      <a routerLink="/cliente/perfil">Editar Perfil</a>
+                      <a routerLink="/cliente/pagamentos">Pagamentos</a>
+                      <a routerLink="/cliente/encomendas">Encomendas</a>
+                      <a routerLink="/cliente/ajuda">Ajuda</a>
+                      <a routerLink="/cliente/login" (click)="logout()">Sair</a>
+                  </div>
+              </div>
+          </div>
+        </div>
+
+        <form id="help" #help="ngForm" class = "helpsection">
+            <h1 class = "titleheader">Ajuda</h1>
+            <div class = "title">
+                <input class = "titlehelp" type="text" placeholder="Insira o título do seu problema..."/>
+            </div>
+            <div class = "description">
+                <textarea class="texthelp" placeholder="Insira a descrição do seu problema..."></textarea>
+            </div>
+            <input class="submit" id="submit" type ="submit" (click)="ContinueSubmit2()" value="Submeter e enviar email">
+        </form>
+    </div>
+
+    <div class="sidebar">
+        <div>
+            <a routerLink="/cliente">
+                <img src="../../assets/images/logo.svg" class="logo">
+            </a>
+            <ul>
+                <li>
+                    <a routerLink="/cliente">
+                        <span class="item">Início</span>
+                    </a>
+                </li>
+                <li>
+                    <a routerLink="/cliente/geriranimais">
+                        <span class="item">Gerir animais</span>
+                    </a>
+                </li>
+                <li>
+                    <a routerLink="/cliente/servicos">
+                        <span class="item">Serviços</span>
+                    </a>
+                </li>
+                <li>
+                  <a routerLink="/cliente/estabelecimentos">
+                      <span class="item">Estabelecimentos</span>
+                  </a>
+                </li>
+                <li>
+                  <a routerLink="/cliente/loja">
+                      <span class="item">Loja Online</span>
+                  </a>
+                </li>
+            </ul>
+        </div>
+        <div class="tips-container">
+            <div class="tip-container">
+                <h2>Dica</h2>
+                <p id="tip-text">{{tipText}}</p>
+                <div>
+                    <ul class="tip-buttons-container">
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+<router-outlet></router-outlet>

@@ -1,0 +1,324 @@
+.gerente{
+    font-size: 15px;
+  }
+  
+  .lembretes{
+    width: 150px;
+  }
+  
+  .lastlembrete{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    gap: 80px;
+    border-radius: 5%;
+    height: 300px;
+    padding-left: 10px;
+    background-image: linear-gradient(to top, #CAB7D3 0%, #5C2976 90%);
+  }
+  
+  .lastlembrete h3
+  {
+    color: white;
+    font-size: 26px;
+    font-weight: 400;
+  }
+  
+  .lastlembrete h4
+  {
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+  }
+  
+  .lastlembrete img{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    width: 100px;
+    height: 100px;
+    border-radius: 25%;
+    opacity: 0.45;
+  }
+  
+  .pa2{
+    color: white;
+    font-size: 22px;
+    font-weight: 400;
+  }
+  
+  .middlebuttons{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 10px;
+  }
+  
+  .agenda, .lembrete{
+    font-family: Poppins-Regular, sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 5px;
+  }
+  
+  .agenda{
+    cursor: pointer;
+    background-color: #5C2976;
+    border: 2px solid #5C2976;
+    color: white;
+    border-radius: 15px 15px 15px 15px;
+  }
+  
+  .agenda:hover{
+    background-color: white;
+    color: #5C2976;
+    border: 2px solid #5C2976;
+  }
+  
+  .agenda:active{
+    background-color: #5C2976;
+    color: white;
+    border: 2px solid #5C2976;
+  }
+  
+  .lembrete{
+    cursor: pointer;
+    background-color: white;
+    color: #5C2976;
+    right: 0;
+    border-radius: 15px 15px 15px 15px;
+    border: 2px solid #5C2976;
+  }
+  
+  .lembrete:hover{
+    background-color: #5C2976;
+    border: 2px solid #5C2976;
+    color: white;
+  }
+  
+  .lembrete:active{
+    background-color: white;
+    border: 2px solid #5C2976;
+    color: #5C2976;
+  }
+  
+  .plano{
+    background-color: #F1F1F1;
+    border-radius: 15px 15px 15px 15px;
+    padding: 10px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  
+  .tips{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    gap: 40px;
+  }
+  
+  .selectoption{
+    padding-top: 15px;
+    text-align: center;
+    font-family: Poppins-Regular, sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+  }
+  
+  .selectoption:hover{
+    text-decoration: underline;
+  }
+  
+  .plano a{
+    color: #5C2976;
+  }
+  
+  .superiorcontainer{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .animais{
+    max-height: 450px;
+    overflow: auto;
+  }
+  
+  .listanimais{
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    background-color: #F1F1F1;
+    border-radius: 30px 15px 15px 30px;
+  }
+  
+  .listanimais:hover{
+    background-color: #cacaca;
+  }
+  
+  .pa{
+    align-self: center;
+    padding-left: 15px;
+    color: #242424;
+    font-size: 18px;
+    font-weight: 600;
+  }
+  
+  .logolistanimal{
+    width: 100px;
+    height: 100px;
+    border: 5px solid white;
+    border-radius: 25%;
+    object-fit: cover;
+    object-position: center;
+  }
+  
+  .listanimaisplus{
+    cursor: pointer;
+    border: 10px solid #F1F1F1;
+    width: 30%;
+    background-color: #F1F1F1;
+    border-radius: 35%;
+    text-align: center;
+    color:#5C2976;
+    font-size: 50px;
+    font-weight: bold;
+  }
+  
+  .listanimaisplus:hover{
+    background-color: #D9D9D9;
+    border: 10px solid #D9D9D9;
+  }
+  
+  .listanimaisplus:active{
+    background-color: gray;
+    border: 10px solid gray;
+  }
+  
+  .apagaranimal{
+    opacity: 0;
+    background-color: rgb(241, 62, 62);
+    align-self: center;
+    float: right;
+    width: 35px;
+    height: 35px;
+    border-radius: 15px 15px 15px 15px;
+    border: 1px solid black;
+    margin-right: 10px;
+    cursor: pointer;
+  }
+  
+  .apagaranimal:hover{
+    opacity: 1;
+  }
+  
+  .listlembrete{
+    display: flex;
+    flex-direction: column;
+    align-content: space-between;
+    background-color: #F1F1F1;
+    border-radius: 15px 15px 15px 15px;
+  }
+  
+  .listlembretetext{
+    padding: 10px 10px;
+    text-align: left;
+  }
+  
+  .listlembretetext a{
+    font-size: 20px;
+  }
+  
+  .listlembretetext p{
+    max-width: 150px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  
+  .lembretemodal{
+    display: none;
+    flex-direction: column;
+    align-self: center;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    background-color: #F1F1F1;
+    position: absolute;
+    z-index: 999;
+    height: 500px;
+    width: 500px;
+    border-radius: 15px 15px 15px 15px;
+  }
+  
+  .buttonsModal{
+    text-align: center;
+    width: 45%;
+  }
+  
+  .continuarBtn{
+    cursor: pointer;
+    font-family: Poppins-Regular, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 7px;
+    border-radius: 15px 15px 15px 15px;
+    background-color: #5C2976;
+    border: 2px solid #5C2976;
+    color: white;
+    pointer-events: auto;
+  }
+  
+  .continuarBtn:hover{
+    background-color: white;
+    border: 2px solid #5C2976;
+    color: #5C2976;
+  }
+  
+  .lembretebtnlist{
+    border-radius: 15px 15px 15px 15px;
+    font-family: Poppins-Regular, sans-serif;
+    width: 92%;
+    align-self: center;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 5px;
+    cursor: pointer;
+    background-color: white;
+    color: #5C2976;
+    border: 0;
+  }
+  
+  .lembretebtnlist:hover{
+    background-color: #cacaca;
+  }
+  
+  .lembretebtnlist:active{
+    background-color: gray;
+  }
+  
+  .listlembreteplus{
+    cursor: pointer;
+    border: 10px solid #F1F1F1;
+    width: 60%;
+    background-color: #F1F1F1;
+    border-radius: 35%;
+    text-align: center;
+    color:#5C2976;
+    font-size: 50px;
+    font-weight: bold;
+    align-self: center;
+  }
+  
+  .listlembreteplus:hover{
+    background-color: #D9D9D9;
+    border: 10px solid #D9D9D9;
+  }
+  
+  .listlembreteplus:active{
+    background-color: gray;
+    border: 10px solid gray;
+  }
+  

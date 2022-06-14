@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gerente - Faltar</title>
+</head>
+<body>
+  <div class ="section">
+    <div class="top_navbar">
+        <div class = "dropdown">
+            <img src="../../assets/images/notifications.jpg" class = "notifications">
+            <div class="dropdown-content-not" style="left:0;">
+              <div>
+                <div class = "tablenot">
+                  <div *ngIf="NotificacaoList.length <= 0">
+                    <div class = "notrow">
+                      <a class = "nottext">Não tem notificações</a>
+                    </div>
+                  </div>
+                  <div *ngIf="NotificacaoList.length > 0">
+                    <div class = "notrow" *ngFor="let notificacao of NotificacaoList" (click)="DeleteNotification(notificacao)">
+                      <a class = "nottext">{{notificacao.Descricao}}</a>
+                      <a>{{ notificacao.DataNotificacao | date:"dd/MM/yy" }}</a>
+                  </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+        </div>
+        <div class ="topPerfil">
+            <a>{{Gerente.Nome}} {{Gerente.Apelido}}</a>
+            <div class = "dropdown" style="float:right;">
+                <img src="{{Gerente.FuncionarioFoto}}" class="perfil">
+                <div class="dropdown-content">
+                    <a routerLink="/gerente/perfil">Editar Perfil</a>
+                    <a routerLink="/gerente/faltar">Pedido Faltar</a>
+                    <a routerLink="/gerente/ajuda">Ajuda</a>
+                    <a routerLink="/gerente/avaliacoes">Avaliações</a>
+                    <a routerLink="/funcionario/login" (click)="logout()">Sair</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class = "box">
+      <div class="getDatas">
+        <div style = "display: flex; gap: 10px">
+          <div>
+            <a>Data Inicial: </a>
+            <input type="date" [(ngModel)]="Pedido.dataInicial" (change)="CheckInfo(Pedido)">
+          </div>
+          <div>
+            <a>Data Final: </a>
+            <input type="date" [(ngModel)]="Pedido.dataFinal" (change)="CheckInfo(Pedido)">
+          </div>
+        </div>
+        <div *ngIf="canSubmit == 1" class ="listfuncbuttons" style="width: 100px">
+          <button (click)="Faltar()">Submeter</button>
+        </div>
+      </div>
+    </div>
+</div>
+
+<div class="sidebar">
+    <div>
+        <a routerLink="/gerente">
+            <img src="../../assets/images/logo.svg" class="logo">
+        </a>
+        <ul>
+            <li>
+                <a routerLink="/gerente" class="active">
+                    <span>Início</span>
+                </a>
+            </li>
+            <li>
+                <a routerLink="/gerente/servicos">
+                    <span>Histórico</span>
+                </a>
+            </li>
+            <li>
+                <a routerLink="/gerente/gerirfuncionarios">
+                    <span>Funcionários</span>
+                </a>
+            </li>
+            <li>
+                <a routerLink="/gerente/veranimais">
+                    <span>Animais</span>
+                </a>
+            </li>
+        </ul>
+    </div>
+</div>
+</body>
+</html>

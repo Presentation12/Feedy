@@ -1,0 +1,119 @@
+<!--Design by foolishdeveloper.com-->
+
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+    <link rel="stylesheet" href="css/agenda.css">
+    <link rel="stylesheet" href="css/geral.css">
+    <link rel="stylesheet" href="css/agenda_calendario.css">
+    <link rel="shortcut icon" href="imagens/icon.svg" />
+    <title>Agenda gerente - Feedy</title>
+    <style>
+
+    </style>
+</head>
+
+<body>
+
+    <div class="section">
+
+        <div class="top_navbar">
+            <a>Nome do gerente</a>
+            <div class = "dropdown" style="float:right;">
+                <img src="Photos/gerente.jpg" class="perfil">
+                <div class="dropdown-content">
+                    <a href="http://127.0.0.1:5501/perfil.html">Editar Perfil</a>
+                    <a href="#">Pagamentos</a>
+                    <a href="#">Encomendas</a>
+                    <a href="http://127.0.0.1:5501/ajuda.html">Ajuda</a>
+                    <a href="http://127.0.0.1:5501/definicoes.html">Definições</a>
+                    <a href="#">Sair</a> 
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+
+            <div class="calendar">
+
+                <div class="calendar-header">
+                    <span class="month-picker" id="month-picker"></span>
+                    <div class="year-picker">
+                        <span class="year-change" id="prev-year">
+                            <pre><</pre>
+                        </span>
+                        <span id="year"></span>
+                        <span class="year-change" id="next-year">
+                            <pre>></pre>
+                        </span>
+                    </div>
+                </div>
+
+                <div class="calendar-body">
+                    <div class="calendar-week-day">
+                        <div>Dom</div>
+                        <div>Seg</div>
+                        <div>Ter</div>
+                        <div>Qua</div>
+                        <div>Qui</div>
+                        <div>Sex</div>
+                        <div>Sab</div>
+                    </div>
+                    <div class="calendar-days"></div>
+                </div>
+
+                <div class="month-list"></div>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="sidebar">
+        <img src="Photos/logo.svg" class="logo">
+        <ul>
+            <li>
+                <a href="#">
+                    <span class="item">Inicio</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://127.0.0.1:5501/agenda.html" class="active">
+                    <span class="item">Agenda</span>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <span class="item">Histórico</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://127.0.0.1:5501/gerentefuncionario.html">
+                    <span class="item">Funcionários</span>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <span class="item">Animais</span>
+                </a>
+            </li>
+        </ul>
+        <div class="dicasContainer">
+
+            <div class="dicas" id="dicas">
+
+                <div class="slider-dica">
+                    <h4>Dica</h4>
+                    <p>Despedir se necessário</p>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <script src="js/funcoes.js"></script>
+    <script src="js/agenda_calendario.js"></script>
+
+</body>
+
+</html>

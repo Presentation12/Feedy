@@ -1,0 +1,4 @@
+-- 
+select c.nome, m.id_morada from Cliente c inner join Morada m on c.id_morada = m.id_morada
+
+select * from dbo.Morada

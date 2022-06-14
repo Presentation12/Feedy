@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <link rel="stylesheet" routerLink="ladingpage.component.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+</head>
+
+<body>
+      <header>
+        <div class="inner">
+            <div class="logo">
+                <div>
+                    <img src="../../assets/images/logo.svg">
+                </div>
+            </div>
+            <nav>
+              <li><span routerLink="/cliente/login"><input type="submit" value="Sou Cliente" /></span></li>
+              <li><span routerLink="/funcionario/login"><input type="submit" value="Sou Funcionário" /></span></li>
+            </nav>
+        </div>
+    </header>
+
+    <div class="showcase">
+        <div class="container-fluid">
+             <div class="row g-0">
+                <div class="col-lg-6 order-lg-2 text-white showcase-img" style="background-image: url('../../assets/images/MetadeInicio.jpg')"></div>
+                    <div class="col-lg-6 order-lg-1 my-auto showcase-text">
+                        <div class="tittle-container">
+                            <div class="tittle-child">
+                                Sobre nós
+                            </div>
+                        </div>
+                            <div class="body-container">
+                                <div class="text-child">A FeedyVet assume-se como um projeto global de saúde, integrando uma vasta rede de Clinicas.
+                                 Um dos seus principais objetivos passa melhorar a forma de cuidar dos animais dos seus clientes, proporcionando-lhes cuidados de proximidade.<br>
+                                 Na saúde a confiança é essencial, sendo exigidos elevados padrões de qualidade a nível técnico e humano.
+                                 Porque afinal, é a pensar nos seus animais e em satisfazer as suas necessidades que nasce a FeedyVet.
+                                </div>
+                            </div>
+                    <div class="itens">
+                        <div class="squares-itens">
+                            <div class="square">
+                                <h2>Clínicas</h2>
+                                <p>102</p>
+                            </div>
+                            <div class="square">
+                                    <h2>Especialidades</h2>
+                                <p>205</p>
+                            </div>
+                            <div class="square">
+                                <h2>Serviços</h2>
+                                <p>345</p>
+                            </div>
+                        </div>
+                        <div class="end-button">
+                            <input type="submit" value="Saber Mais" routerLink="/paginalinicial/sabermais">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <section class="features-icons">
+            <div class="row-features-1">
+                <div class="col-lg-4">
+                    <div class="features-icons-item">
+                        <input type="submit" value="Explora" routerLink="/paginalinicial/funcionamento">
+                        <h3>Como funcionamos</h3>
+                        <p class="lead mb-0">Vem conhecer o trabalho da nossa organização</p>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="features-icons-item">
+                        <input type="submit" value="Pergunta" routerLink="/paginalinicial/parcerias">
+                        <h3>Estabelecimentos Parceiros</h3>
+                        <p class="lead mb-0">Vem descobrir quem faz parte deste grande projeto</p>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="features-icons-item">
+                        <input type="submit" value="Descobre" routerLink="/paginalinicial/vantagens">
+                        <h3>Vantagens</h3>
+                        <p class="lead mb-0">Como posso beneficiar do projeto?</p>
+                    </div>
+                </div>
+            </div>
+    </section>
+
+    <section class="parcerias">
+        <div class="container-parcerias">
+            <div class="container-itens">
+                   <h2 class="tittle">Parcerias</h2>
+                   <p style="margin: 5px;">Hoje já contamos com mais de 50 parcerias de norte a sul do país, todas elas disponíveis para ajudar a tratar do seu animal, vem fazer parte de nós e bem conhecer todas estas parcerias que oferecem os seus serviços</p>
+                   <input type="submit" value="Aderir" routerLink="/paginalinicial/adesao">
+            </div>
+        </div>
+    </section>
+
+    <section class="features-icons">
+        <div class="row-features">
+            <div class="col-md-3">
+                    <div class="titulo-plano-livre">
+                        <h2>Livre</h2>
+                        <p>Grátis</p>
+                    </div>
+                    <div class="descricao-plano">
+                        <ul class="li-planos">
+                            <li>1 Animal</li>
+                            <li>Acesso limitado</li>
+                            <li>Sem lembretes</li>
+                        </ul>
+                    </div>
+                <div class="button-plano">
+                    <input type="button" value="Aderir" routerLink="/cliente/login">
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="titulo-plano-livre">
+                    <h2>Mensal</h2>
+                    <p>1.99€</p>
+                </div>
+                <div class="descricao-plano">
+                    <ul class="li-planos">
+                        <li>Animais ilimitados</li>
+                        <li>Acesso ilimitado</li>
+                        <li>Desconto na 1º consulta</li>
+                    </ul>
+                </div>
+            <div class="button-plano">
+                <input type="button" value="Aderir" routerLink="/cliente/login">
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="titulo-plano-livre">
+                <h2>Anual</h2>
+                <p>17.99€</p>
+            </div>
+            <div class="descricao-plano">
+                <ul class="li-planos">
+                    <li>Animais ilimitados</li>
+                    <li>Acesso limitado</li>
+                    <li>Desconto na 1º consulta</li>
+                </ul>
+            </div>
+        <div class="button-plano">
+            <input type="button" value="Aderir" routerLink="/cliente/login">
+        </div>
+     </div>
+    </div>
+    </section>
+    <div class="footer">
+        <footer>
+            <div class="footer-container">
+                <div class="row">
+                    <div class="col-md-4 item">
+                        <h3>Links uteis</h3>
+                        <ul>
+                            <li><a href="#">Sobre nós</a></li>
+                            <li><a href="#">FAQ</a></li>
+                            <li><a href="#">Parcerias</a></li>
+                            <li><a href="#">Portal</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-md-4 item">
+                        <h3>Contactos</h3>
+                        <ul>
+                            <li><a href="#">assistência@feedy.pt</a></li>
+                            <li><a href="#">+351 912 345 678</a></li>
+                            <li><a href="#">feedy.pt</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-md-4 item social"><a href="#"><i class="icon ion-social-facebook"></i></a><a href="#"><i class="icon ion-social-twitter"></i></a><a href="#"><i class="icon ion-social-instagram"></i></a></div>
+                </div>
+                <p class="copyright">2022 © Copyright <br>Desenvolvido por Vita Software</p>
+            </div>
+        </footer>
+    </div>
+</body>
+</html>

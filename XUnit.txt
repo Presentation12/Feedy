@@ -1,0 +1,18 @@
+Testar valores hardcode: inserir por theory e fazer new dentro do metodo, depois fazer Assert.Equal(funcao(theory), metodo)
+Testar se é nulo ou nao nulo para cada caso, fazer assert.Contains<>
+Testar o tipo de erro (???) --> ASSERT.THROWS<EXCEPTIONTALTAL>() OU ASSERT.ARGUMENTEXCEPTION
+Perspetiva: Preparar testes antes de começar a fazer codigo
+Criar uma classe por modelo
+
+Testes integracao BIG PROBLEM --> Requires Mocking
+Ignore integracao, dividir tudo por units e testar (???)
+
+PLANO:
+1º Dividir regras de negócio em métodos auxiliares
+2º Criar testes unitários para os métodos auxiliares (verificações de regras de negócio)
+3º Fazer Skip de testes unitários que mexam com a DB, explicando que seria melhor efetuar um teste de integração no mesmo+
+
+Cenas a testar: 
+-> Encomendas (Cancelamento)
+-> Serviço (Marcação + agendamento)
+-> Animal (Adicionar (saber se tem mais que 1 e se a conta é Livre))

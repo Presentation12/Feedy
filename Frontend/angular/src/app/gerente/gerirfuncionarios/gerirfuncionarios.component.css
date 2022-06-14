@@ -1,0 +1,502 @@
+  /*CONTAINER*/
+
+  .container {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top:0;
+    margin-left: 225px;
+    margin-top: 10%;
+    line-height: 28px;
+    display: flex;
+    justify-content: center;
+  }
+
+
+.lista_funcionarios{
+  position: absolute;
+  display: flex;
+  justify-content: left;
+  border-style: solid;
+  border-color: #F1F1F1;
+  width: 85%;
+  height: 100%;
+  border-radius: 2%;
+}
+
+
+from{
+  margin-top: 50px;
+}
+
+form input{
+  width: 1000px;
+  height: 40px;
+  border: none;
+  outline: none;
+  padding: 0 5px;
+}
+
+form button{
+  width: 100px;
+  height: 30px;
+  border: none;
+  border-radius:5px;
+  background: #5C2976;
+  color:white;
+  outline: none;
+  cursor:pointer;
+}
+
+.lista_funcionarios ul{
+  list-style: none;
+  width: 100%;
+}
+
+.lista_funcionarios ul li{
+  list-style: none;
+  width: 100%;
+  background-color: #fff;
+  height: 40px;
+  line-height: 40px;
+  padding: 0 5px;
+  position: relative;
+  cursor: pointer;
+  display: block;
+  transition: 0.5s linear;
+}
+.lista_funcionarios ul li span{
+  position: absolute;
+  top:0;
+  right: 0;
+  width: 50px;
+  color: #fff;
+  border-radius: 5px;
+  text-align: center;
+  background: #5C2976;
+}
+
+
+.tablesection{
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  margin: auto;
+  margin-top: 50px;
+}
+
+.table{
+  border-collapse: collapse;
+  width: 100%;
+  border: 1px solid #ddd;
+  table-layout: fixed;
+}
+
+tr:nth-child(even), th{
+  background-color: #edecec;
+}
+
+.filter{
+  display: flex;
+  align-self: flex-end;
+  justify-content: center;
+  gap: 10px;
+  width: 50%;
+  margin-bottom: 10px;
+}
+
+.filtertext{
+  border-radius: 15px 15px 15px 15px;
+  width: 100%;
+  padding: 5px;
+}
+
+.filterbutton{
+  font-family: Poppins-Regular, sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  padding: 2px 25px 2px 25px;
+  cursor: pointer;
+  background-color: white;
+  color: #5C2976;
+  border: 2px solid #5C2976;
+  border-radius: 15px 15px 15px 15px;
+}
+
+.addfuncbutton{
+  font-family: Poppins-Regular, sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  padding: 2px 25px 2px 25px;
+  cursor: pointer;
+  background-color: #5C2976;
+  color: white;
+  border: 2px solid white;
+  border-radius: 15px 15px 15px 15px;
+}
+
+.addfuncbutton:active{
+  background-color: white;
+  color: #5C2976;
+  border: 2px solid #5C2976;
+}
+
+.gerirfuncs{
+  font-family: Poppins-Regular, sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  padding: 2px 25px 2px 25px;
+  cursor: pointer;
+  background-color: #5C2976;
+  color: white;
+  border: 2px solid #5C2976;
+  border-radius: 15px 15px 15px 15px;
+}
+
+
+.gerirfuncs:active{
+  background-color: white;
+  color: #5C2976;
+  border: 2px solid #5C2976;
+}
+
+
+.filterbutton:active{
+  background-color: #5C2976;
+  color: white;
+  border: 2px solid #5C2976;
+}
+
+th, td {
+  cursor: pointer;
+  text-align: center;
+  border-top: 1px solid #ddd;
+  padding: 16px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+tr:hover{
+  background-color: rgb(182, 182, 182);
+}
+
+th:hover{
+  background-color: #edecec;
+  cursor: auto;
+}
+
+.imagem_funcionario{
+  width: 75px;
+  height: 75px;
+  border-radius: 10px;
+  object-fit: cover;
+}
+
+
+.mensagem{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  top: 0;
+}
+
+.fundo{
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  top: 0;
+  background-color: white;
+  opacity: 50%;
+}
+
+.conteudo{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 600px;
+  width: 400px;
+  position: absolute;
+  border-radius: 15px;
+  background-color: #F1F1F1;
+  gap: 20px;
+}
+
+.conteudo p, h2{
+  margin-top: 10px;
+}
+
+.addAnimal{
+  border: 3px solid #5C2976;
+  width: 50%;
+  align-self: center;
+  border-radius: 15px 15px 15px 15px;
+  justify-self: center;
+  margin-top: 5%;
+}
+
+.checked{
+  display: flex;
+  flex-direction:column;
+  margin-top:10%;
+  text-align: center;
+  justify-content: center;
+  gap: 15px;
+  padding: 60px 20px;
+}
+
+.checked img{
+  height: 250px;
+  width: 250px;
+  align-self: center;
+}
+
+.addImagem{
+  display: flex;
+  justify-content: center;
+  gap: 25%;
+  margin-top: 20px;
+}
+
+.buttonsAdd{
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  margin-bottom: 10px;
+}
+
+.saveChange, .cancelChange{
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 12px;
+  padding: 5px;
+  border-radius: 15px 15px 15px 15px;
+  width: 25%;
+  align-self: center;
+}
+
+.cancelChange{
+  background-color: white;
+  color: #5C2976;
+  border: 2px solid #5C2976;
+}
+
+.saveChange{
+  background-color: #5C2976;
+  color: white;
+  border: 2px solid white;
+}
+
+.cancelChange:hover{
+  background-color: #5C2976;
+  color: white;
+  border: 2px solid white;
+}
+
+.saveChange:hover{
+  background-color: white;
+  color: #5C2976;
+  border: 2px solid #5C2976;
+}
+
+.animaldados{
+  padding: 20px;
+}
+
+.inputText{
+  border-radius: 15px 15px 15px 15px;
+  border: 1px solid black;
+  padding:5px;
+}
+
+
+.addFuncionario
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  top: 0;
+  font-size: 10px;
+}
+
+.addFuncionario button
+{
+  width: 100px;
+}
+
+.imag{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+
+* {
+    list-style: none;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Poppins-Regular, sans-serif;
+  }
+
+  body {
+    background: #fff;
+    list-style: none;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+  }
+
+  .sidebar {
+    background: #F1F1F1;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 225px;
+    height: 100%;
+    padding: 25px 0;
+    transition: all 0.5s ease;
+  }
+
+  .logo {
+    margin-bottom: 30px;
+    text-align: center;
+    display: block;
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+  }
+
+  .sidebar ul li a {
+    display: block;
+    padding: 13px 40px;
+    color: #242424;
+    font-size: 14px;
+    font-weight: 600;
+    position: relative;
+    margin: 5%;
+  }
+
+  .sidebar ul li a:hover,
+  .sidebar ul li a.active {
+    color: #5C2976;
+    background: #D9D9D9;
+  }
+
+  .sidebar ul li a:hover:before,
+  .sidebar ul li a.active:before {
+    display: block;
+  }
+
+  .dicasContainer
+  {
+    position: absolute;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    padding-bottom: 30px;
+    display: flex;
+    justify-content:center;
+    align-items:flex-end;
+  }
+
+  .dicas
+  {
+    width: 150px;
+    height: 130px;
+    border-radius: 15px;
+    background-color: #5C2976;
+
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .slider-dica h4
+  {
+    font-weight: 600;
+  }
+
+  .slider-dica p
+  {
+    justify-content: space-around;
+    padding-top: 10px;
+    font-size: 10px;
+  }
+
+
+.section {
+    width: calc(100% - 225px);
+    margin-left: 225px;
+    transition: all 0.5s ease;
+  }
+
+  .top_navbar {
+    color: #242424;
+    height: 50px;
+    display: flex;
+    justify-content: flex-end;
+    padding: 0 20px;
+    align-items: center;
+  }
+
+  .dropdown{
+    position: relative;
+    display: inline-block;
+  }
+
+  .dropdown-content{
+    display: none;
+    position: absolute;
+    cursor: pointer;
+    right: 0;
+    background-color: #F1F1F1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    border-radius: 15px 15px 15px 15px;
+  }
+
+  .dropdown-content a {
+    color: rgb(0, 0, 0);
+    padding: 12px 16px;
+    display: block;
+  }
+
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  .dropdown-content a:hover {
+    background-color: #D9D9D9;
+    border-radius: 15px 15px 15px 15px;
+  }
+
+  .perfil {
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: .5s;
+  }
+
+  .perfil:hover {
+  opacity: 0.8;
+  }

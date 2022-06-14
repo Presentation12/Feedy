@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Faltar Funcionario</title>
+</head>
+<body>
+  <div class ="section">
+    <div class="top_navbar">
+      <div class = "dropdown">
+        <img src="../../assets/images/notifications.jpg" class = "notifications">
+        <div class="dropdown-content-not" style="left:0;">
+          <div *ngIf="NotificacaoList.length <= 0">
+            <div class = "notrow">
+              <a class = "nottext">Não tem notificações</a>
+            </div>
+          </div>
+          <div *ngIf="NotificacaoList.length > 0">
+            <div class = "tablenot">
+              <div class = "notrow2" *ngFor="let notificacao of NotificacaoList" (click)="selectNot(notificacao)">
+                  <div class = "notrow">
+                    <a class = "nottext">{{notificacao.Descricao}}</a>
+                    <a>{{ notificacao.DataNotificacao | date:"dd/MM/yy" }}</a>
+                  </div>
+                  <div class = "notrowButtons">
+                    <button class="apagarNot" (click)="DeleteNotification(notificacao)"> X </button>
+                    <button class="verNot" (click)="showDetailsNot()"> Ver </button>
+                  </div>
+              </div>
+          </div>
+          </div>
+        </div>
+    </div>
+        <div class ="topPerfil">
+          <a>Dr. {{Funcionario.Nome}} {{Funcionario.Apelido}}</a>
+          <div class="dropdown">
+              <img src="{{Funcionario.FuncionarioFoto}}" class="perfil">
+              <div class="dropdown-content">
+                  <a routerLink="/funcionario/perfil">Editar Perfil</a>
+                  <a routerLink="/funcionario/prescricoes">Prescrições</a>
+                  <a routerLink="/funcionario/ajuda">Ajuda</a>
+                  <a routerLink="/funcionario/faltar">Pedido Faltar</a>
+                  <a routerLink="/funcionario/login" (click)="logout()">Sair</a>
+              </div>
+          </div>
+        </div>
+    </div>
+
+    <div class = "box">
+
+      <div class="popupNotDetails" *ngIf="showDetails == 1">
+        <div>
+          <a>Descrição: </a>
+          <a>{{notDetail.Descricao}}</a>
+        </div>
+        <div>
+          <a>Data: </a>
+          <a>{{notDetail.DataNotificacao | date : 'dd/MM/yyyy'}}</a>
+        </div>
+        <button class="lembrete" style="width: 30%;align-self:center;margin-top: 20px" (click)="tiraDetails()">Confirmar</button>
+      </div>
+
+      <div class="getDatas">
+        <div style = "display: flex; gap: 10px">
+          <div>
+            <a>Data Inicial: </a>
+            <input type="date" [(ngModel)]="Pedido.dataInicial" (change)="CheckInfo(Pedido)">
+          </div>
+          <div>
+            <a>Data Final: </a>
+            <input type="date" [(ngModel)]="Pedido.dataFinal" (change)="CheckInfo(Pedido)">
+          </div>
+        </div>
+        <div>
+          <a>Motivo: </a>
+          <input type="text" placeholder="Motivo de ausência..." [(ngModel)]="Pedido.motivo" (change)="CheckInfo(Pedido)">
+        </div>
+        <div *ngIf="canSubmit == 1" class ="listfuncbuttons" style="width: 100px">
+          <button (click)="Faltar()">Submeter</button>
+        </div>
+      </div>
+
+</div>
+
+<div class="sidebar">
+    <div>
+        <a routerLink="/funcionario">
+            <img src="../../assets/images/logo.svg" class="logo">
+        </a>
+        <ul>
+            <li>
+                <a routerLink="/funcionario" class="active">
+                    <span>Início</span>
+                </a>
+            </li>
+            <li>
+                <a routerLink="/funcionario/veranimais">
+                    <span>Animais</span>
+                </a>
+            </li>
+        </ul>
+    </div>
+</div>
+</div>
+</body>
+</html>

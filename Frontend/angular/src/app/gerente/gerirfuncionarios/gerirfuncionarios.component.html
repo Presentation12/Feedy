@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="gerirfuncionarios.component.css">
+  <title>Gerir funcionarios</title>
+</head>
+<body>
+  <div class="section">
+    <div class="top_navbar">
+        <a>{{Gerente.Nome}} {{Gerente.Apelido}} </a>
+        <div class = "dropdown" style="float:right;">
+            <img src="{{Gerente.FuncionarioFoto}}" class="perfil" style="margin-left: 10px;">
+            <div class="dropdown-content">
+                <a routerLink="/gerente/perfil">Editar Perfil</a>
+                <a routerLink="/gerente/faltar">Pedido Faltar</a>
+                <a routerLink="/gerente/ajuda">Ajuda</a>
+                <a routerLink="/gerente/avaliacoes">Avaliações</a>
+                <a routerLink="/funcionario/login" (click)="logout()">Sair</a>
+            </div>
+        </div>
+    </div>
+
+    <div class = "tablesection">
+        <div class = "filter">
+            <button class = "addfuncbutton" (click)="add()">Adicionar</button>
+            <input class = "filtertext" type="text" [(ngModel)]="filterText" required/>
+        </div>
+        <table class = "table">
+            <thead>
+                <tr>
+                    <th>
+                    </th>
+                    <th>
+                        Nome
+                    </th>
+                    <th>
+                        Especialidade
+                    </th>
+                    <th>
+                        Contacto
+                    </th>
+                    <th>
+                        Email
+                    </th>
+                    <th>
+                        Código
+                    </th>
+                    <th>
+
+                    </th>
+                </tr>
+            </thead>
+            <tbody class ="bodytable">
+
+                <tr *ngFor=" let funcionario of ListaFuncionarios| filter:filterText " class ="lineTable">
+                    <td><img class="imagem_funcionario" src="{{funcionario.FuncionarioFoto}}" alt=""></td>
+                    <td>{{funcionario.Nome}} {{funcionario.Apelido}}</td>
+                    <td>{{funcionario.Especialidade}}</td>
+                    <td>{{funcionario.Telemovel}}</td>
+                    <td>{{funcionario.Email}}</td>
+                    <td>{{funcionario.Codigo}}</td>
+                    <td><button class = "gerirfuncs" (click)="Editar(funcionario)">Editar</button></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+<div class="sidebar">
+    <img src="../../../assets/images/logo.svg" class="logo" style="cursor:pointer;" routerLink="/gerente">
+    <ul>
+        <li>
+            <a routerLink="/gerente">
+                <span class="item">Início</span>
+            </a>
+        </li>
+        <li>
+            <a routerLink="/gerente/servicos">
+                <span class="item">Histórico</span>
+            </a>
+        </li>
+        <li>
+            <a routerLink="/gerente/gerirfuncionarios" class="active">
+                <span class="item">Funcionários</span>
+            </a>
+        </li>
+        <li>
+            <a routerLink="/gerente/veranimais">
+                <span class="item">Animais</span>
+            </a>
+        </li>
+    </ul>
+</div>
+</div>
+
+<div class="mensagem" *ngIf="ativo==1">
+  <div class="fundo">
+  </div>
+  <div class="conteudo">
+      <h2>Funcionario</h2>
+      <img class="imagem_funcionario" src="{{FuncionarioSelecionado.FuncionarioFoto}}" alt="">
+      <p>{{FuncionarioSelecionado.Nome}} {{FuncionarioSelecionado.Apelido}}</p>
+      <p>Especialidade</p>
+      <input type="text" class="especialidade" [(ngModel)]="FuncionarioSelecionado.Especialidade">
+      <button class = "gerirfuncs" (click)="RemoveFuncionario()">Remover</button>
+     <div class="actionsButtons">
+      <button class = "gerirfuncs" (click)="UpdateFuncionariosDados()">Guardar</button>
+      <button class = "gerirfuncs" (click)="Ok()">Cancelar</button>
+  </div>
+  </div>
+</div>
+
+<div *ngIf="addProcess == 1" class="addFuncionario">
+  <div class="fundo"></div>
+  <div class="conteudo">
+        <div class="funcionadiodados">
+            <div style="display:flex; flex-direction: column;gap:10px;">
+              <img style="height: 100px;width:100px;align-self:center" src ={{newFunc.FuncionarioFoto}}>
+            </div>
+            <div style="display: flex; flex-direction:column;gap:10px;margin-top:5px"><a style="color:#5C2976;font-weight:bold">Nome</a><input type="text" class="inputText" [(ngModel)]="newFunc.Nome"></div>
+            <div style="display: flex; flex-direction:column;gap:10px;margin-top:5px"><a style="color:#5C2976;font-weight:bold">Apelido</a><input type="text" class="inputText" [(ngModel)]="newFunc.Apelido"></div>
+            <div style="display: flex; flex-direction:column;gap:10px;margin-top:5px"><a style="color:#5C2976;font-weight:bold">Especialidade</a><input type="text" class="inputText"[(ngModel)]="newFunc.Especialidade"></div>
+            <div style="display: flex; flex-direction:column;gap:10px;margin-top:5px"><a style="color:#5C2976;font-weight:bold">Email</a><input type="email" class="inputText" [(ngModel)]="newFunc.Email"></div>
+            <div style="display: flex; flex-direction:column;gap:10px;margin-top:5px"><a style="color:#5C2976;font-weight:bold">Telemovel</a><input type="number" class="inputText" [(ngModel)]="newFunc.Telemovel"></div>
+            <div style="display: flex; flex-direction:column;gap:10px;margin-top:5px"><a style="color:#5C2976;font-weight:bold">Codigo</a><input type="number" class="inputText" [(ngModel)]="newFunc.Codigo"></div>
+            <div style="display: flex; flex-direction:column;gap:10px;margin-top:5px"><a style="color:#5C2976;font-weight:bold">Password</a><input type="password" class="inputText" [(ngModel)]="newFunc.Pass"></div>
+          </div>
+            <div class ="buttonsAdd">
+              <button class ="saveChange" (click)="addFuncionario()">Guardar</button>
+              <button class ="cancelChange" (click)="cancel()">Cancelar</button>
+        </div>
+  </div>
+
+</div>
+
+</body>
+</html>

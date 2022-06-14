@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="perfilgerente.component.css" rel="stylesheet"/>
+  <title>Perfil Gerente</title>
+</head>
+<body>
+  <div class="section">
+    <div class="top_navbar">
+        <a>{{Gerente.Nome}} {{Gerente.Apelido}}</a>
+        <div class="dropdown">
+            <img src="{{Gerente.FuncionarioFoto}}" class="perfil">
+            <div class="dropdown-content">
+                <a routerLink="/gerente/perfil">Editar Perfil</a>
+                <a routerLink="/gerente/faltar">Pedido Faltar</a>
+                <a routerLink="/gerente/ajuda">Ajuda</a>
+                <a routerLink="/gerente/avaliacoes">Avaliações</a>
+                <a routerLink="/funcionario/login" (click)="logout()">Sair</a>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="container">
+        <img src="{{Gerente.FuncionarioFoto}}" class="foto">
+        <h3>Informação pessoal</h3>
+        <hr>
+        <form class="submit">
+            <div class="inputs">
+                <p class="sub">Nome</p>
+                <input [(ngModel)]="Gerente.Nome" name="Nome" id="nome" type="text" disabled="true" />
+            </div>
+            <div class="inputs">
+                <p class="sub">Apelido</p>
+                <input [(ngModel)]="Gerente.Apelido" name="Apelido" id="apelido" type="text"
+                    placeholder="{{Gerente.Apelido}}" disabled="true" />
+            </div>
+            <div class="inputs">
+                <p class="sub">E-mail</p>
+                <input [(ngModel)]="Gerente.Email" name="Email" id="email" type="email"
+                    placeholder="{{Gerente.Email}}" disabled="true" />
+            </div>
+            <div class="inputs">
+                <p class="sub">Contacto</p>
+                <input [(ngModel)]="Gerente.Telemovel" name="Contacto" id="contacto" type="tel"
+                    placeholder="{{Gerente.Telemovel}}" disabled="true" />
+            </div>
+            <div class="inputs">
+                <p class="sub">Clinicas</p>
+                <div *ngFor="let clinica of ListaClinicas">
+                    <input type="text" placeholder="{{clinica.Nome}}" disabled="true" />
+                </div>
+            </div>
+
+            <div class="inputs">
+                <p class="sub">Código</p>
+                <input type="number" placeholder="{{Gerente.Codigo}}" disabled="true" />
+            </div>
+
+            <input id="alterar" type="submit" value="Alterar" (click)="Editable()" />
+            <div id="editar" class="editar">
+                <p>Alterar Foto</p>
+                <input type="file" class="imageinput" accept="image/jpeg, image/png, image/jpg" (change)="uploadPhoto($event)">
+                <p></p>
+                <input class="confirmar" type="submit" value="Confirmar" (click)="edit()" />
+                <input class="cancelar" type="submit" value="Cancelar" (click)="NonEditable()" />
+            </div>
+        </form>
+
+        <h3 class="tit">Alteração de palavra-passe</h3>
+        <hr>
+        <input id="buton" type="submit" value="Alterar" (click)="InsertsPass('buton','passes')">
+        <div class="pass" id="passes">
+            <form class="submit" ngNativeValidate>
+                <div>
+                    <p class="sub">Nova palavra-passe</p>
+                    <input required [(ngModel)]="PassNew" name="PassNew" id="pass" type="password"
+                        placeholder="Palavra-passe">
+                </div>
+
+                <div>
+                    <input type="checkbox" (click)="ShowPass('pass')">Mostrar
+                </div>
+
+                <div>
+                    <p class="sub">Confirmação palavra-passe</p>
+                    <input required [(ngModel)]="PassConfirm" name="PassConfirm" id="pass2" type="password"
+                        placeholder="Palavra-passe">
+                </div>
+
+                <div>
+                    <input type="checkbox" (click)="ShowPass('pass2')">Mostrar
+                </div>
+                <div class="submits">
+                    <input class="confirmar" type="submit" value="Confirmar" (click)="editPassword()">
+                    <input class="cancelar" id="cancelar" type="submit" value="Cancelar"
+                        (click)="Cancel('buton','passes')">
+                </div>
+            </form>
+        </div>
+
+        <h3>Outros</h3>
+        <hr>
+        <div>
+            <p>Idioma: pt-pt</p>
+        </div>
+
+    </div>
+</div>
+
+<div class="sidebar">
+    <div>
+        <a routerLink="/gerente">
+            <img src="../../assets/images/logo.svg" class="logo">
+        </a>
+        <ul>
+            <li>
+                <a routerLink="/gerente">
+                    <span>Início</span>
+                </a>
+            </li>
+            <li>
+                <a routerLink="/gerente/servicos">
+                    <span>Histórico</span>
+                </a>
+            </li>
+            <li>
+                <a routerLink="/gerente/gerirfuncionarios">
+                    <span>Funcionários</span>
+                </a>
+            </li>
+            <li>
+                <a routerLink="/gerente/veranimais">
+                    <span>Animais</span>
+                </a>
+            </li>
+        </ul>
+    </div>
+</div>
+</body>
+</html>
+
+<router-outlet></router-outlet>

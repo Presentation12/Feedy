@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="geriranimais.component.css" rel="stylesheet"/>
+    <title>User Historico</title>
+</head>
+<body>
+    <div class ="section">
+        <div *ngIf="edicaoAtive == 1" class="editanimalmodal">
+            <div class="changeimage">
+              <div style="display: flex; flex-direction:column;gap:10px">
+                <div style="display:flex;gap:15px;">
+                  <a style="align-self: center;">Foto do Animal</a>
+                  <img src="{{SelectedAnimal.AnimalFoto}}">
+                </div>
+                <input type="file" class="imageinput" accept="image/jpeg, image/png, image/jpg" (change)="uploadPhoto($event)" style = "align-self: center;">
+              </div>
+            </div>
+            <div class="animaldados">
+              <div style="display: flex; flex-direction:column;gap:10px"><a>Nome</a><input type="text" [(ngModel)]="SelectedAnimal.Nome"></div>
+              <div style="display: flex; flex-direction:column;gap:10px"><a>Classe</a><input type="text" [(ngModel)]="SelectedAnimal.Classe"></div>
+              <div style="display: flex; flex-direction:column;gap:10px"><a>Especie</a><input type="text" [(ngModel)]="SelectedAnimal.Especie"></div>
+              <div style="display: flex; flex-direction:column;gap:10px"><a>Genero</a><input type="text" [(ngModel)]="SelectedAnimal.Genero"></div>
+              <div style="display: flex; flex-direction:column;gap:10px"><a>Peso</a><input type="text" [(ngModel)]="SelectedAnimal.Peso"></div>
+            </div>
+            <div class ="buttonsModal">
+                <button class ="saveLogoChange" (click)="patchAnimal(SelectedAnimal)">Guardar Alterações</button>
+                <button class ="cancelLogoChange" (click)="CancelarEdicao()">Cancelar</button>
+            </div>
+        </div>
+        <div class="top_navbar">
+            <div class = "dropdown">
+              <img src="../../assets/images/notifications.jpg" class = "notifications">
+              <div class="dropdown-content-not" style="left:0;">
+                  <div class = "tablenot">
+                      <div class = "notrow" *ngFor="let notificacao of NotificacoesList" (click)="deleteNotificacao(notificacao)">
+                          <a class = "nottext">{{notificacao.Descricao}}</a>
+                          <a>{{ notificacao.DataNotificacao | date:"dd/MM/yy" }}</a>
+                      </div>
+                  </div>
+              </div>
+          </div>
+            <div class ="topPerfil">
+              <a>{{Cliente.Nome}} {{Cliente.Apelido}}</a>
+              <div class = "dropdown" style="float:right;">
+                  <img src="{{Cliente.ClienteFoto}}" class="perfil">
+                  <div class="dropdown-content">
+                      <a routerLink="/cliente/perfil">Editar Perfil</a>
+                      <a routerLink="/cliente/pagamentos">Pagamentos</a>
+                      <a routerLink="/cliente/encomendas">Encomendas</a>
+                      <a routerLink="/cliente/ajudacliente">Ajuda</a>
+                      <a routerLink="/cliente/login" (click)="logout()">Sair</a>
+                  </div>
+              </div>
+            </div>
+        </div>
+
+        <div class ="animalselected">
+            <img *ngIf="check == 0" src="{{SelectedAnimal.AnimalFoto}}" class="logolistanimal selected" style="opacity:0">
+            <a *ngIf="check == 0" class ="nameselected" style="opacity:0">{{SelectedAnimal.Nome}}</a>
+        </div>
+        <div class ="animalselected">
+          <img *ngIf="check == 1" src="{{SelectedAnimal.AnimalFoto}}" class="logolistanimal selected" style="opacity:1">
+          <a *ngIf="check == 1" class ="nameselected" style="opacity:1">{{SelectedAnimal.Nome}}</a>
+      </div>
+
+        <div class ="box">
+          <div class = "leftbox">
+            <div class="container listadoEdit listedAnimals">
+              <div *ngFor="let animal of AnimaisList" class = "listanimais" (click)="selectAnimal(animal)">
+                <img src={{animal.AnimalFoto}} class="logolistanimal">
+                <p class ="pa">{{animal.Nome}}</p>
+              </div>
+            </div>
+            <button class = "addAnimalBtn" routerLink="/cliente/addanimal">Adicionar Animal</button>
+          </div>
+
+              <div *ngIf="check == 0" class="container listadoEdit" style="opacity:0">
+                <div class = "infoanimal">
+                    <div class="infologo">
+                        <img src="{{SelectedAnimal.AnimalFoto}}" class="logoanimalinfo">
+                    </div>
+                    <div>
+                        <div class="inputs editable">
+                            <p class="sub">Nome</p>
+                            <input type="text" id="nome" placeholder="{{SelectedAnimal.Nome}}" disabled="true"/>
+                        </div>
+                        <div class="inputs">
+                            <p class="sub">Nascimento</p>
+                            <input class="inputtext" type="text" placeholder="{{SelectedAnimal.DataNascimento}}" disabled="true"/>
+                        </div>
+                        <div class="inputs">
+                            <p class="sub">Classe</p>
+                            <input class="inputtext" type="text" placeholder="{{SelectedAnimal.Classe}}" disabled="true"/>
+                        </div>
+                        <div class="inputs">
+                            <p class="sub">Espécie</p>
+                            <input class="inputtext" type="text" placeholder="{{SelectedAnimal.Especie}}" disabled="true"/>
+                        </div>
+                        <div class="inputs">
+                            <p class="sub">Gênero</p>
+                            <input class="inputtext" type="text" placeholder="{{SelectedAnimal.Genero}}" disabled="true"/>
+                        </div>
+                        <div class="inputs">
+                            <p class="sub">Altura</p>
+                            <input class="inputtext" type="text" placeholder="{{SelectedAnimal.Altura}}" disabled="true"/>
+                        </div>
+                        <div class="inputs">
+                            <p class="sub">Peso</p>
+                            <input class="inputtext" type="number" placeholder="{{SelectedAnimal.Peso}}" disabled="true"/>
+                            <a>Kg</a>
+                        </div>
+                        <div class="inputs">
+                            <p class="sub">Última consulta</p>
+                            <input class="inputtext" type="text" placeholder="{{UltimaConsulta.DataServico}}" disabled="true"/>
+                        </div>
+                        <div class="inputs">
+                            <p class="sub">Última vacinação</p>
+                            <input class="inputtext" type="date" disabled="true"/>
+                        </div>
+                    </div>
+
+                    <div class ="infobtn">
+                        <button onclick = "EditarAnimal()" class="editarbtn">Editar</button>
+                        <button class="eliminarbtn">Eliminar</button>
+                    </div>
+                </div>
+              </div>
+              <div *ngIf="check == 1" class="container listadoEdit" style="opacity:1">
+                <div class = "infoanimal">
+                    <div class="infologo">
+                        <img src="{{SelectedAnimal.AnimalFoto}}" class="logoanimalinfo">
+                    </div>
+                    <div>
+                        <div class="inputs editable">
+                            <p class="sub">Nome</p>
+                            <input type="text" id="nome" placeholder="{{SelectedAnimal.Nome}}" disabled="true"/>
+                        </div>
+                        <div class="inputs">
+                            <p class="sub">Nascimento</p>
+                            <input class="inputtext" type="text" placeholder="{{SelectedAnimal.DataNascimento | date: 'dd/MM/yyyy'}}" disabled="true"/>
+                        </div>
+                        <div class="inputs">
+                            <p class="sub">Classe</p>
+                            <input class="inputtext" type="text" placeholder="{{SelectedAnimal.Classe}}" disabled="true"/>
+                        </div>
+                        <div class="inputs">
+                            <p class="sub">Espécie</p>
+                            <input class="inputtext" type="text" placeholder="{{SelectedAnimal.Especie}}" disabled="true"/>
+                        </div>
+                        <div class="inputs">
+                            <p class="sub">Gênero</p>
+                            <input class="inputtext" type="text" placeholder="{{SelectedAnimal.Genero}}" disabled="true"/>
+                        </div>
+                        <div class="inputs">
+                            <p class="sub">Peso</p>
+                            <input class="inputtext" type="number" placeholder="{{SelectedAnimal.Peso}}" disabled="true"/>
+                            <a>Kg</a>
+                        </div>
+                        <div class="inputs">
+                          <p class="sub">Altura</p>
+                          <input class="inputtext" type="text" placeholder="{{SelectedAnimal.Altura}}" disabled="true"/>
+                          <a>cm</a>
+                        </div>
+                        <div class="inputs">
+                            <p class="sub">Última consulta</p>
+                            <input *ngIf="UltimaConsulta.DataServico != '00-00-00T00:00:00'" class="inputtext" type="text" placeholder="{{UltimaConsulta.DataServico | date: 'dd/MM/yyyy'}}" disabled="true"/>
+                            <input *ngIf="UltimaConsulta.DataServico == '00-00-00T00:00:00'" class="inputtext" type="text" placeholder="Nenhuma" disabled="true"/>
+                        </div>
+                        <div class="inputs">
+                            <p class="sub">Última vacinação</p>
+                            <input *ngIf="UltimaVacina.DataServico != '00-00-00T00:00:00'" class="inputtext" type="text" placeholder="{{UltimaVacina.DataServico | date: 'dd/MM/yyyy'}}" disabled="true"/>
+                            <input *ngIf="UltimaVacina.DataServico == '00-00-00T00:00:00'" class="inputtext" type="text" placeholder="Nenhuma" disabled="true"/>
+                        </div>
+                    </div>
+
+                    <div class ="infobtn">
+                        <button class="editarbtn" (click)="EditarAnimal(SelectedAnimal)">Editar</button>
+                        <button class="eliminarbtn" (click)="deleteAnimal(SelectedAnimal)">Eliminar</button>
+                    </div>
+                </div>
+              </div>
+            <div class="listadoEdit">
+                <ul>
+                    <li>
+                        <div class="sideItem active">
+                            <a routerLink="/geriranimais"><span>Dados</span></a>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="sideItem">
+                            <a routerLink="/cliente/lembretes"><span>Lembrete</span></a>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="sideItem">
+                            <a routerLink="/cliente/historicoservicos"><span>Histórico</span></a>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+      <div class="sidebar">
+        <div>
+            <a routerLink="/cliente">
+                <img src="../../assets/images/logo.svg" class="logo">
+            </a>
+            <ul>
+                <li>
+                    <a routerLink="/cliente">
+                        <span class="item">Início</span>
+                    </a>
+                </li>
+                <li>
+                    <a routerLink="/cliente/geriranimais" class="active">
+                        <span class="item">Gerir animais</span>
+                    </a>
+                </li>
+                <li>
+                    <a routerLink="/cliente/servicos">
+                        <span class="item">Serviços</span>
+                    </a>
+                </li>
+                <li>
+                  <a routerLink="/cliente/estabelecimentos">
+                      <span class="item">Estabelecimentos</span>
+                  </a>
+                </li>
+                <li>
+                  <a routerLink="/cliente/loja">
+                      <span class="item">Loja Online</span>
+                  </a>
+                </li>
+            </ul>
+        </div>
+        <div class="tips-container">
+          <div class="tip-container">
+              <h2>Dica</h2>
+              <p id="tip-text">{{tipText}}</p>
+              <div>
+                  <ul class="tip-buttons-container">
+                  </ul>
+              </div>
+          </div>
+        </div>
+      </div>
+</body>
+</html>
+<router-outlet></router-outlet>
+

@@ -1,0 +1,19 @@
+create unique index medicamento_idx on Medicamento (id_clinica, nome, descricao, volume);
+create unique index clinica_idx on Clinica (nome, id_morada);
+
+alter table Cliente add constraint email_uk unique (email);
+
+alter table Clinica add constraint contacto_uk unique (contacto);
+
+--create unique index servico_idx on Servico (id_cliente, id_animal, id_veterinario, id_clinica, id_servico_catalogo, data_servico);
+
+create unique index servico_catalogo_idx on Servico_Catalogo (id_clinica, tipo);
+create unique index servico_prescricao_idx on Servico_Prescricao (id_servico, id_prescricao);
+
+alter table Veterinario add constraint email_uk unique (email);
+alter table Veterinario add constraint telemovel_vet_uk unique (telemovel);
+alter table Veterinario add constraint codigo_uk unique (codigo);
+
+create unique index veterinario_clinica_idx on Veterinario_Clinica (id_veterinario, id_clinica, data_inicio);
+
+create unique index clinica_horario_idx on Horario_Clinica(id_clinica, horario_abertura, horario_encerramento, dia_semana);

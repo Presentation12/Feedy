@@ -1,0 +1,78 @@
+  /*CONTAINER*/
+  
+  .container {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top:0;
+    margin-left: 225px;
+    margin-top: 10%;
+    line-height: 28px;
+    display: flex;
+    justify-content: center;
+  }
+
+
+.lista_funcionarios{
+  position: absolute;
+  display: flex;
+  justify-content: left;
+  border-style: solid;
+  border-color: #F1F1F1;
+  width: 85%;
+  height: 100%;
+  border-radius: 2%;
+}
+
+
+from{
+  margin-top: 50px;
+}
+
+form input{
+  width: 1000px;
+  height: 40px;
+  border: none;
+  outline: none;
+  padding: 0 5px;
+}
+
+form button{
+  width: 100px;
+  height: 30px;
+  border: none;
+  border-radius:5px;
+  background: #5C2976;
+  color:white;
+  outline: none;
+  cursor:pointer;
+}
+
+.lista_funcionarios ul{
+  list-style: none;
+  width: 100%;
+}
+
+.lista_funcionarios ul li{
+  list-style: none;
+  width: 100%;
+  background-color: #fff;
+  height: 40px;
+  line-height: 40px;
+  padding: 0 5px;
+  position: relative;
+  cursor: pointer;
+  display: block;
+  transition: 0.5s linear;
+}
+.lista_funcionarios ul li span{
+  position: absolute;
+  top:0;
+  right: 0;
+  width: 50px;
+  color: #fff;
+  border-radius: 5px;
+  text-align: center; 
+  background: #5C2976;
+}

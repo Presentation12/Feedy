@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Veterinário - Animais</title>
+    <link rel="icon" href="/logo/icon/roxo.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <nav class="side-bar">
+        <div class="logo-container">
+            <img src={{logoSrc}} class="logo" alt="Logo" style="cursor:pointer" routerLink="/funcionario">
+        </div>
+        <div class="buttons-container">
+            <ul class="buttons-list">
+                <a href="/funcionario"><li>
+                    Início
+                </li></a>
+                <a href="/funcionario/veranimais">
+                    <li class="selected">
+                        Animais
+                    </li>
+                </a>
+                <a href="/funcionario/perfil">
+                  <li>
+                      Editar Perfil
+                  </li>
+              </a>
+                <a href="/funcionario/prescricoes">
+                    <li>
+                        Prescrições
+                    </li>
+                </a>
+                <a href="/funcionario/faltar">
+                  <li>
+                      Pedido Faltar
+                  </li>
+                </a>
+                <a href="/funcionario/ajuda">
+                  <li>
+                      Ajuda
+                  </li>
+              </a>
+              <a href="/funcionario/login" (click)="logout()">
+                <li>
+                    Sair
+                </li>
+            </a>
+
+            </ul>
+        </div>
+    </nav>
+    <div class="content">
+        <div class="top-content">
+            <div class="left-container">
+                <ul class="navigation-buttons-container">
+                </ul>
+            </div>
+            <div class="right-container">
+                <h2>Dr. {{veterinario.Nome}} {{veterinario.Apelido}}</h2>
+                <img src={{veterinario.FuncionarioFoto}} alt="Doctor">
+            </div>
+        </div>
+        <div class="bottom-content">
+            <div class="table-container">
+                <table>
+                    <tr class="table-header">
+                        <th width="18%">Foto</th>
+                        <th width="18%">Nome</th>
+                        <th width="18%">Dono</th>
+                        <th width="18%">Contacto</th>
+                        <th class="buttons-header" >
+                            <input type="text" placeholder="Pesquisar" [(ngModel)]="filterText">
+                        </th>
+                    </tr>
+                    <tr *ngFor="let animais of animais | filter:filterText" class="table-row">
+                        <td class="td-img"><img src={{animais.AnimalFoto}} alt="Animal"></td>
+                        <td>{{animais.Nome}}</td>
+                        <td>{{animais.NomeDono}} {{animais.ApelidoDono}}</td>
+                        <td>{{animais.EmailDono}}</td>
+                        <td></td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,19 @@
+Cliente:
+	-> ChangeStatus (Admin e Cliente?) 
+	-> DelCliente (Admin e Cliente?)
+
+Estabelecimento:
+	-> Struct fica no caralho
+
+EncomendaStock:
+	-> Post (Admin e Cliente?)
+
+StockEstabelecimento:
+	-> Stock por estabelecimento (Admin, Gerente e Cliente?)
+
+Servico:
+	-> Cliente pode ver detalhes de serviço (?)
+	-> Marcar serviço checkar HasClaim cliente (usei email + ID) + Falta fazer com o Metodo Funcionario/Gerente
+
+ServicoPrescricao:
+	-> Quais Roles??

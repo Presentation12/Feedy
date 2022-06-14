@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portal Funcionario</title>
+</head>
+<body>
+  <nav class="side-bar">
+    <div class="logo-container">
+      <img src={{logoSrc}} class="logo" alt="Logo" style="cursor:pointer" routerLink="/funcionario">
+  </div>
+  <div class="buttons-container">
+      <ul class="buttons-list">
+          <a href="/funcionario"><li  class="selected">
+              Início
+          </li></a>
+          <a href="/funcionario/veranimais">
+              <li>
+                  Animais
+              </li>
+          </a>
+          <a href="/funcionario/perfil">
+            <li>
+                Editar Perfil
+            </li>
+        </a>
+          <a href="/funcionario/prescricoes">
+              <li>
+                  Prescrições
+              </li>
+          </a>
+          <a href="/funcionario/faltar">
+            <li>
+                Pedido Faltar
+            </li>
+          </a>
+          <a href="/funcionario/ajuda">
+            <li>
+                Ajuda
+            </li>
+          </a>
+        <a href="/funcionario/login" (click)="logout()">
+          <li>
+              Sair
+          </li>
+      </a>
+
+
+        </ul>
+    </div>
+</nav>
+<div class="content">
+    <div class="top-content">
+        <div class="left-container">
+            <ul class="navigation-buttons-container">
+            </ul>
+        </div>
+        <div class="right-container">
+            <h2>Dr. {{veterinario.Nome}} {{veterinario.Apelido}}</h2>
+            <img src={{veterinario.FuncionarioFoto}} alt="Doctor">
+        </div>
+    </div>
+    <div class="bottom-content">
+        <div class="inner-container">
+            <div class="left-container">
+                <h1>{{dataFinal}}</h1>
+                <div class="horizontal-section">
+                    <div class="services-info-container">
+                        <h2>{{servicos.length}} consultas</h2>
+                        <h3>Por atender</h3>
+                    </div>
+                    <div class="services-info-container">
+                        <h2>{{servicosPastNumber}} consultas</h2>
+                        <h3>Atendidas</h3>
+                    </div>
+                </div>
+                <div class="vertical-section">
+                    <div *ngFor="let servicos of servicos" class="service-info-container">
+                        <h2>{{servicos.DataServico|date:'HH:mm'}}</h2>
+                        <h4><b>Hoje</b> - {{servicos.Descricao}}</h4>
+                        <div class="inner-buttons-container">
+                            <button class="call-to-action" (click)="editar(servicos)">Editar</button>
+                            <button (click)="detail(servicos)">Detalhes</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="open-service-container" *ngIf="editAtivo==1">
+                <form (ngSubmit)="updateServico($event)">
+                    <label>
+                        Data
+                    </label>
+                    <input type="datetime-local" [ngModel]="servicoEdit.DataServico" name="DataServico"><br>
+
+                    <label>
+                        Estado
+                    </label>
+                    <select [ngModel]="servicoEdit.Estado" name="Estado">
+                        <option>Marcado</option>
+                        <option>Cancelado</option>
+                        <option>Concluído</option>
+                    </select><br>
+                    <button type="submit">Confirmar</button>
+                    <button (click)="changeEditarStatus(0)">Cancelar</button>
+                </form>
+
+            </div>
+            <div class="open-service-container" *ngIf="detailAtivo==1">
+                    <label>
+                        Nome Cliente
+                    </label>
+                    <input type="text" [ngModel]="servicoDetail.NomeCliente" disabled><br>
+                    <label>
+                        Telemovel
+                    </label>
+                    <input type="text" [ngModel]="servicoDetail.TelemovelCliente" disabled><br>
+                    <label>
+                        E-mail
+                    </label>
+                    <input type="text" [ngModel]="servicoDetail.EmailCliente" disabled><br>
+                    <label>
+                        Nome Animal
+                    </label>
+                    <input type="text" [ngModel]="servicoDetail.NomeAnimal" disabled><br>
+                    <label>
+                        Descricao
+                    </label>
+                    <input type="text" [ngModel]="servicoDetail.Descricao" disabled><br>
+                    <label>
+                        Data
+                    </label>
+                    <input type="datetime-local" [ngModel]="servicoDetail.DataServico" disabled><br>
+                    <label>
+                        Estado
+                    </label>
+                    <select [ngModel]="servicoDetail.Estado" disabled>
+                        <option>Marcado</option>
+                        <option>Cancelado</option>
+                        <option>Concluído</option>
+                    </select><br>
+
+                    <button (click)="changeDetailStatus(0)">Fechar</button>
+
+
+            </div>
+            <div class="right-container">
+                <div class="vertical-section">
+                    <div class="service-info-container">
+                        <h2>Prescrições</h2>
+                        <h4>Veja as prescrições dos clientes.</h4>
+                        <div class="inner-buttons-container">
+                            <button class="call-to-action" onclick="location.href='/funcionario/prescricoes';">Abrir</button>
+                        </div>
+                    </div>
+                    <div class="recent-services-container">
+                        <div *ngFor="let servicos of servicosHistorico" class="recent-service">
+                            <img src="{{servicos.AnimalFoto}}" alt="Animal">
+                            <div>
+                                <h4>{{servicos.NomeAnimal}}</h4>
+                                <p>{{servicos.TipoServico}}</p>
+                                <p>{{servicos.DataServico | date: 'dd/MM/yyyy'}}</p>
+                            </div>
+                        </div>
+                        <div class="inner-buttons-container">
+                            <button class="call-to-action">Histórico</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>

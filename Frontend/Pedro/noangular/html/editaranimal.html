@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="../css/style.css" rel="stylesheet"/>
+    <link href="../css/editaranimal.css" rel="stylesheet"/>
+    <title>User Historico</title>
+</head>
+<body>
+    <div class ="section">
+        <div class="logoanimalmodal">
+            <input type="file" class="imageinput" accept="image/jpeg, image/png, image/jpg">
+            <div class="displaylogo"></div>
+            <div class ="buttonsModal">
+                <button class ="saveLogoChange">Guardar Alterações</button>
+                <button class ="cancelLogoChange">Cancelar</button>
+            </div>
+        </div>
+        <div class="top_navbar">
+            <div class = "dropdown">
+                <img src="../src/notifications.jpg" class = "notifications">
+                <div class="dropdown-content-not" style="left:0;">
+                    <div class = "tablenot">
+                        <div class = "notrow">
+                            <a class = "nottext">Consulta amanhã</a>
+                            <a>06/05/2022 - 15:30</a>
+                        </div>
+                        <div class = "notrow">
+                            <a class = "nottext">Vacina amanhã Nikita</a>
+                            <a>07/05/2022 - 15:30</a>
+                        </div>
+                        <div class = "notrow">
+                            <a class = "nottext">Cirurgia Cardiovascular amanhã Toretto</a>
+                            <a>10/05/2022 - 15:30</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class ="topPerfil">
+                <a>Nome User</a>
+                <div class = "dropdown" style="float:right;">
+                    <img src="../src/gajo.png" class="perfil">
+                    <div class="dropdown-content">
+                        <a href="#" onclick="NaoFazParteDaMinhaParte()">Editar Perfil</a>
+                        <a href="http://127.0.0.1:5555/html/userpagamentos.html">Pagamentos</a>
+                        <a href="http://127.0.0.1:5555/html/userhistoricoencomendas.html">Encomendas</a>
+                        <a href="http://127.0.0.1:5555/html/ajuda.html">Ajuda</a>
+                        <a href="#" onclick="NaoFazParteDaMinhaParte()">Sair</a> 
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class ="animalselected">
+            <img src="../src/nikita.jpg" class="logolistanimal selected">
+            <a class ="nameselected">Nikita</a>
+        </div>
+        
+        <div class ="box">
+            <div class="container listadoEdit">
+                <div class = "listanimais activeanimal">
+                    <img src="../src/nikita.jpg" class="logolistanimal activeanimallogo">
+                    <pa>Nikita</pa>
+                </div>  
+                <div class = "listanimais">
+                    <img src="../src/toretto.jpg" class="logolistanimal">
+                    <pa>Toretto</pa>
+                </div>
+                <div class = "listanimais">
+                    <img src="../src/guaxinim.jpg" class="logolistanimal">
+                    <pa>Nome animal</pa>
+                </div>
+                <div class = "listanimais">
+                    <img src="../src/guaxinim.jpg" class="logolistanimal">
+                    <pa>Nome animal</pa>
+                </div>
+            </div>
+            <div class="container listadoEdit">
+                <div class = "infoanimal">
+                    <div class="infologo">
+                        <img src="../src/nikita.jpg" class="logoanimalinfo">
+                        <img src="../src/edit.svg" class="iconedit">
+                    </div>
+                    <div>
+                        <div class="inputs editable"> 
+                            <p class="sub">Nome</p>
+                            <input type="text" id="nome" placeholder="Nikita" disabled="true"/>   
+                        </div>
+                        <div class="inputs"> 
+                            <p class="sub">Nascimento</p>
+                            <input class="inputtext" type="date" disabled="true"/>
+                        </div>
+                        <div class="inputs"> 
+                            <p class="sub">Classe</p>
+                            <input class="inputtext" type="text" placeholder="Cão" disabled="true"/>   
+                        </div>
+                        <div class="inputs"> 
+                            <p class="sub">Espécie</p>
+                            <input class="inputtext" type="text" placeholder="Colly Anão" disabled="true"/>   
+                        </div>
+                        <div class="inputs"> 
+                            <p class="sub">Gênero</p>
+                            <input class="inputtext" type="text" placeholder="Fêmea" disabled="true"/>   
+                        </div>
+                        <div class="inputs"> 
+                            <p class="sub">Peso</p>
+                            <input class="inputtext" type="number" placeholder="5" disabled="true"/>
+                            <a>Kg</a>
+                        </div>
+                        <div class="inputs"> 
+                            <p class="sub">Última consulta</p>
+                            <input class="inputtext" type="date" disabled="true"/>   
+                        </div>
+                        <div class="inputs"> 
+                            <p class="sub">Última vacinação</p>
+                            <input class="inputtext" type="date" disabled="true"/>   
+                        </div>
+                    </div>
+
+                    <div class ="infobtn">
+                        <button onclick = "EditarAnimal()" class="editarbtn">Editar</button>
+                        <button class="eliminarbtn">Eliminar</button>
+                    </div>
+                </div>  
+            </div>
+            <div class="listadoEdit">
+                <ul>
+                    <li>
+                        <div class="sideItem active">
+                            <a href="#"><span>Dados</span></a>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="sideItem" onclick="NaoFazParteDaMinhaParte()">
+                            <a href="#"><span>Boletim</span></a>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="sideItem" onclick="NaoFazParteDaMinhaParte()">
+                            <a href="#"><span>Lembrete</span></a>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="sideItem" onclick="NaoFazParteDaMinhaParte()">
+                            <a href="#"><span>Histórico</span></a>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="sidebar">
+        <div>
+            <a href="http://127.0.0.1:5555/html/perfilcliente.html">
+                <img src="../src/logo.svg" class="logo">
+            </a>
+            <ul>
+                <li>
+                    <a href="http://127.0.0.1:5555/html/perfilcliente.html">
+                        <span class="item">Início</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="http://127.0.0.1:5555/html/editaranimal.html">
+                        <span class="item">Gerir animais</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="#" onclick="NaoFazParteDaMinhaParte()">
+                        <span class="item">Serviços</span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <div class="tip-container">
+            <h2>Dica</h2>
+            <p id="tip-text">Deve lavar o seu cão, pelo menos, uma vez por mês.</p>
+            <div>
+                <ul class="tip-buttons-container">
+                    <li class="tip selectedtip" id="tip-1"></li>
+                    <li class="tip" id="tip-2"></li>
+                    <li class="tip" id="tip-3"></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+    <script src="../js/notificacao.js"></script>
+    <script src="../js/editaranimal.js"></script>
+    <script src="../js/slider.js"></script>
+    <script src="../js/programlimiter.js"></script>
+</body>
+</html>

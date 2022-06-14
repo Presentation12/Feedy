@@ -1,0 +1,5 @@
+Em Medicamento:
+	-> Chave Primaria deveria ser (id_medicamento, id_clinica)?
+
+Em Animal:
+	-> Remover cor, ultima_vacina, ultima_consulta?

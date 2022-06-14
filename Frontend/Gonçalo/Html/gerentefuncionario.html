@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="css/geral.css">
+    <link rel="stylesheet" href="css/gerente_func.css">
+    <link rel="shortcut icon" href="imagens/icon.svg" />
+    <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
+    <title>Funcionários - Gerente</title>
+</head>
+<body>
+    <div class="section">
+        <div class="top_navbar">
+            <a>Nome do gerente</a>
+            <div class = "dropdown" style="float:right;">
+                <img src="Photos/gerente.jpg" class="perfil">
+                <div class="dropdown-content">
+                    <a href="http://127.0.0.1:5501/perfil.html">Editar Perfil</a>
+                    <a href="#">Pagamentos</a>
+                    <a href="#">Encomendas</a>
+                    <a href="http://127.0.0.1:5501/ajuda.html">Ajuda</a>
+                    <a href="http://127.0.0.1:5501/definicoes.html">Definições</a>
+                    <a href="#">Sair</a> 
+                </div>
+            </div>
+        </div>
+
+        <h1>Adicionar uma pesssoa</h1>
+    <form>
+        <input type="text" name="text" id="txt" 
+        required>
+        <button type="submit" class="btn-list">
+            <i class="fa fa-plus" aria-hidden="true">Adicionar</i>
+        </button>
+    </form>
+
+    <div class="container">
+         <div class="lista_funcionarios">
+             <ul></ul>
+        </div>
+    </div>
+    <div class="sidebar">
+        <img src="Photos/logo.svg" class="logo">
+        <ul>
+            <li>
+                <a href="#">
+                    <span class="item">Inicio</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://127.0.0.1:5501/agenda.html">
+                    <span class="item">Agenda</span>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <span class="item">Histórico</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://127.0.0.1:5501/gerentefuncionario.html" class="active">
+                    <span class="item">Funcionários</span>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <span class="item">Animais</span>
+                </a>
+            </li>
+        </ul>
+        <div class="dicasContainer">
+
+            <div class="dicas" id="dicas">
+
+                <div class="slider-dica">
+                    <h4>Dica</h4>
+                    <p>Despedir se necessário</p>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    
+    <script src="js/lista_funcionarios.js"></script>
+    <script src="js/funcoes.js"></script>
+    <script src="js/agenda_calendario.js"></script>
+</body>
+</html>

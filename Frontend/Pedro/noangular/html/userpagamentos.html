@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="../css/style.css" rel="stylesheet"/>
+    <link href="../css/userpagamentos.css" rel="stylesheet"/>
+    <title>User Pagamentos</title>
+</head>
+<body>
+    <div class ="section">
+        <div class="top_navbar">
+            <div class = "dropdown">
+                <img src="../src/notifications.jpg" class = "notifications">
+                <div class="dropdown-content-not" style="left:0;">
+                    <div class = "tablenot">
+                        <div class = "notrow">
+                            <a class = "nottext">Consulta amanhã</a>
+                            <a>06/05/2022 - 15:30</a>
+                        </div>
+                        <div class = "notrow">
+                            <a class = "nottext">Vacina amanhã Nikita</a>
+                            <a>07/05/2022 - 15:30</a>
+                        </div>
+                        <div class = "notrow">
+                            <a class = "nottext">Cirurgia Cardiovascular amanhã Toretto</a>
+                            <a>10/05/2022 - 15:30</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class ="topPerfil">
+                <a>Nome User</a>
+                <div class = "dropdown" style="float:right;">
+                    <img src="../src/gajo.png" class="perfil">
+                    <div class="dropdown-content">
+                        <a href="#" onclick="NaoFazParteDaMinhaParte()">Editar Perfil</a>
+                        <a href="http://127.0.0.1:5555/html/userpagamentos.html">Pagamentos</a>
+                        <a href="http://127.0.0.1:5555/html/userhistoricoencomendas.html">Encomendas</a>
+                        <a href="http://127.0.0.1:5555/html/ajuda.html">Ajuda</a>
+                        <a href="#" onclick="NaoFazParteDaMinhaParte()">Sair</a> 
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+        <div class = "tablesection">
+            <div class = "filter">
+                <input class = "filtertext" type="text" required/>
+                <button class = "filterbutton">Filtro</button>
+            </div>
+            <table class = "table">
+                <thead>
+                    <tr>
+                        <th>
+                            Tipo
+                        </th>
+                        <th>
+                            Data
+                        </th>
+                        <th>
+                            Valor
+                        </th>
+                        <th>
+                            Estabelecimento
+                        </th>
+                        <th>
+                            Estado
+                        </th>
+                    </tr>
+                </thead>
+                <tbody class ="bodytable">
+                    <tr class ="lineTable">
+                        <td>xxx</td>
+                        <td>xxx</td>
+                        <td>xxx</td>
+                        <td>xxx</td>
+                        <td>xxx</td>
+                    </tr>
+                    <tr class ="lineTable">
+                        <td>yyy</td>
+                        <td>yyy</td>
+                        <td>yyy</td>
+                        <td>yyy</td>
+                        <td>yyy</td>
+                    </tr>
+                    <tr class ="lineTable">
+                        <td>zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz</td>
+                        <td>zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz</td>
+                        <td>zzz</td>
+                        <td>zzz</td>
+                        <td>zzzzzzzz zzzzzzzzzzzzz zzzzzzzzzz zzzzzzzzz zzzzzzzz zzzzzzz zzzzzzz zzzzzz</td>
+                    </tr>
+                    <tr class ="lineTable">
+                        <td>Serviço</td>
+                        <td>10/03/2022</td>
+                        <td>35.00€</td>
+                        <td>Clínica Veterinária D.João IV</td>
+                        <td>Pago</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div class="sidebar">
+            <div>
+                <a href="http://127.0.0.1:5555/html/perfilcliente.html">
+                    <img src="../src/logo.svg" class="logo">
+                </a>
+                <ul>
+                    <li>
+                        <a href="http://127.0.0.1:5555/html/perfilcliente.html">
+                            <span class="item">Início</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="http://127.0.0.1:5555/html/editaranimal.html">
+                            <span class="item">Gerir animais</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#" onclick="NaoFazParteDaMinhaParte()">
+                            <span class="item">Serviços</span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <div class="tip-container">
+                <h2>Dica</h2>
+                <p id="tip-text">Deve lavar o seu cão, pelo menos, uma vez por mês.</p>
+                <div>
+                    <ul class="tip-buttons-container">
+                        <li class="tip selectedtip" id="tip-1"></li>
+                        <li class="tip" id="tip-2"></li>
+                        <li class="tip" id="tip-3"></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+    <script src="../js/notificacao.js"></script>
+    <script src="../js/filter.js"></script>
+    <script src="../js/userpagamentos.js"></script>
+    <script src="../js/slider.js"></script>
+    <script src="../js/programlimiter.js"></script>
+</body>
+</html>

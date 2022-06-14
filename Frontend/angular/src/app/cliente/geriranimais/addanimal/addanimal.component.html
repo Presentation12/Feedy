@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="addanimal.component.css" rel="stylesheet"/>
+  <title>AddAnimal</title>
+</head>
+<body>
+  <div class ="section">
+    <div class="top_navbar">
+          <div class = "dropdown">
+            <img src="../../assets/images/notifications.jpg" class = "notifications">
+            <div class="dropdown-content-not" style="left:0;">
+                <div class = "tablenot">
+                    <div class = "notrow" *ngFor="let notificacao of NotificacoesList" (click)="deleteNotificacao(notificacao)">
+                        <a class = "nottext">{{notificacao.Descricao}}</a>
+                        <a>{{ notificacao.DataNotificacao | date:"dd/MM/yy" }}</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class ="topPerfil">
+            <a>{{Cliente.Nome}} {{Cliente.Apelido}}</a>
+            <div class = "dropdown" style="float:right;">
+                <img src="{{Cliente.ClienteFoto}}" class="perfil">
+                <div class="dropdown-content">
+                    <a routerLink="/cliente" onclick="NaoFazParteDaMinhaParte()">Editar Perfil</a>
+                    <a routerLink="/cliente/pagamentos">Pagamentos</a>
+                    <a routerLink="/cliente/encomendas">Encomendas</a>
+                    <a routerLink="/cliente/ajudacliente">Ajuda</a>
+                    <a routerLink="/cliente/login" (click)="logout()">Sair</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div *ngIf="addProcess == 1" class="addAnimal">
+      <div>
+        <div class="addImagem">
+          <div style="display:flex;gap:15px;">
+            <a style="align-self: center;color:#5C2976;font-weight:bold">Foto do Animal</a>
+          </div>
+          <div style="display:flex; flex-direction: column;gap:10px;">
+            <img style="height: 100px;width:100px;align-self:center" src ={{animal.AnimalFoto}}>
+            <input type="file" class="imageinput" accept="image/jpeg, image/png, image/jpg" (change)="uploadPhoto($event)" style = "align-self: center;">
+          </div>
+        </div>
+      </div>
+      <div class="animaldados">
+        <div style="display: flex; flex-direction:column;gap:10px;margin-top:5px"><a style="color:#5C2976;font-weight:bold">Nome</a><input type="text" class="inputText" [(ngModel)]="animal.Nome" (change)="checkInfo(animal)"></div>
+        <div style="display: flex; flex-direction:column;gap:10px;margin-top:5px"><a style="color:#5C2976;font-weight:bold">Genero</a>
+          <select type="text" class="inputText" [(ngModel)]="animal.Genero" (change)="checkInfo(animal)">
+            <option>
+              Macho
+            </option>
+            <option>
+              Fêmea
+            </option>
+          </select>
+        </div>
+        <div style="display: flex; flex-direction:column;gap:10px;margin-top:5px"><a style="color:#5C2976;font-weight:bold">Classe</a><input type="text" class="inputText" [(ngModel)]="animal.Classe" (change)="checkInfo(animal)"></div>
+        <div style="display: flex; flex-direction:column;gap:10px;margin-top:5px"><a style="color:#5C2976;font-weight:bold">Especie</a><input type="text" class="inputText" [(ngModel)]="animal.Especie" (change)="checkInfo(animal)"></div>
+        <div style="display: flex; flex-direction:column;gap:10px;margin-top:5px"><a style="color:#5C2976;font-weight:bold">Data de Nascimento</a><input type="date" class="inputText"[(ngModel)]="animal.DataNascimento" (change)="checkInfo(animal)"></div>
+        <div style="display: flex; flex-direction:column;gap:10px;margin-top:5px"><a style="color:#5C2976;font-weight:bold">Altura</a><input type="number" class="inputText" [(ngModel)]="animal.Altura" (change)="checkInfo(animal)"></div>
+        <div style="display: flex; flex-direction:column;gap:10px;margin-top:5px"><a style="color:#5C2976;font-weight:bold">Peso</a><input type="number" class="inputText" [(ngModel)]="animal.Peso" (change)="checkInfo(animal)"></div>
+      </div>
+        <div class ="buttonsAdd">
+          <button  *ngIf="canAdd == 1" class ="saveChange" (click)="adicionarAnimal()">Guardar Alterações</button>
+          <button class ="cancelChange" routerLink="/cliente/geriranimais">Cancelar</button>
+        </div>
+      </div>
+      <div *ngIf="addProcess == 0" class="addAnimal checked" >
+        <img src ="../../../../assets/images/checked.png">
+        <h4>Sucesso!</h4>
+        <a>O seu animal foi adicionado com sucesso!</a>
+        <button class = "saveChange" routerLink="/cliente/geriranimais">Continuar</button>
+      </div>
+    </div>
+
+<div class="sidebar">
+    <div>
+        <a routerLink="/cliente">
+            <img src="../../assets/images/logo.svg" class="logo">
+        </a>
+        <ul>
+            <li>
+                <a routerLink="/cliente" class="active">
+                    <span>Início</span>
+                </a>
+            </li>
+            <li>
+                <a routerLink="/cliente/geriranimais">
+                    <span>Gerir animais</span>
+                </a>
+            </li>
+            <li>
+                <a routerLink="/cliente/servicos" >
+                    <span>Serviços</span>
+                </a>
+            </li>
+            <li>
+              <a routerLink="/cliente/estabelecimentos">
+                  <span>Estabelecimentos</span>
+              </a>
+          </li>
+        </ul>
+    </div>
+    <div class="tips-container">
+        <div class="tip-container">
+            <h2>Dica</h2>
+            <p id="tip-text">{{tipText}}</p>
+            <div>
+                <ul class="tip-buttons-container">
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>

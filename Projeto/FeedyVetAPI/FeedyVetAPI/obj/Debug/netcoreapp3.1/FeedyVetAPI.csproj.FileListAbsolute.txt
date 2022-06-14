@@ -1,0 +1,1303 @@
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\FeedyVetAPI.exe
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\FeedyVetAPI.deps.json
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\FeedyVetAPI.runtimeconfig.json
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\FeedyVetAPI.runtimeconfig.dev.json
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\FeedyVetAPI.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\FeedyVetAPI.pdb
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.csprojAssemblyReference.cache
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.AssemblyInfoInputs.cache
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.AssemblyInfo.cs
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.csproj.CoreCompileInputs.cache
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\staticwebassets\FeedyVetAPI.StaticWebAssets.Manifest.cache
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\staticwebassets\FeedyVetAPI.StaticWebAssets.xml
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\FeedyVetAPI.styles.css
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.RazorTargetAssemblyInfo.cache
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.pdb
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.genruntimeconfig.cache
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.csproj.CopyComplete
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\FeedyVetAPI.exe
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\FeedyVetAPI.deps.json
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\FeedyVetAPI.runtimeconfig.json
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\FeedyVetAPI.runtimeconfig.dev.json
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\FeedyVetAPI.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\FeedyVetAPI.pdb
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.csprojAssemblyReference.cache
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.AssemblyInfoInputs.cache
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.AssemblyInfo.cs
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.csproj.CoreCompileInputs.cache
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\staticwebassets\FeedyVetAPI.StaticWebAssets.Manifest.cache
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\staticwebassets\FeedyVetAPI.StaticWebAssets.xml
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\FeedyVetAPI.styles.css
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.RazorTargetAssemblyInfo.cache
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.csproj.CopyComplete
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.dll
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.pdb
+C:\Users\duart\OneDrive\Desktop\Feedy-02b1986537bf08a7322ebd6ba6dfae0a1d18cbea\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.genruntimeconfig.cache
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\FeedyVetAPI.exe
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\FeedyVetAPI.deps.json
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\FeedyVetAPI.runtimeconfig.json
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\FeedyVetAPI.runtimeconfig.dev.json
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\FeedyVetAPI.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\FeedyVetAPI.pdb
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.csproj.AssemblyReference.cache
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.AssemblyInfoInputs.cache
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.AssemblyInfo.cs
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.csproj.CoreCompileInputs.cache
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\staticwebassets\FeedyVetAPI.StaticWebAssets.Manifest.cache
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\staticwebassets\FeedyVetAPI.StaticWebAssets.xml
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\FeedyVetAPI.styles.css
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.csproj.CopyComplete
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.pdb
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.genruntimeconfig.cache
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\FeedyVetAPI.exe
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\FeedyVetAPI.deps.json
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\FeedyVetAPI.runtimeconfig.json
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\FeedyVetAPI.runtimeconfig.dev.json
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\FeedyVetAPI.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\FeedyVetAPI.pdb
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.csproj.AssemblyReference.cache
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.AssemblyInfoInputs.cache
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.AssemblyInfo.cs
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.csproj.CoreCompileInputs.cache
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\staticwebassets\FeedyVetAPI.StaticWebAssets.Manifest.cache
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\staticwebassets\FeedyVetAPI.StaticWebAssets.xml
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\FeedyVetAPI.styles.css
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.RazorTargetAssemblyInfo.cache
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.csproj.CopyComplete
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.pdb
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.genruntimeconfig.cache
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\FeedyVetAPI.exe
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\FeedyVetAPI.deps.json
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\FeedyVetAPI.runtimeconfig.json
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\FeedyVetAPI.runtimeconfig.dev.json
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\FeedyVetAPI.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\FeedyVetAPI.pdb
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.csproj.AssemblyReference.cache
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.AssemblyInfoInputs.cache
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.AssemblyInfo.cs
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.csproj.CoreCompileInputs.cache
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\staticwebassets\FeedyVetAPI.StaticWebAssets.Manifest.cache
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\staticwebassets\FeedyVetAPI.StaticWebAssets.xml
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\FeedyVetAPI.styles.css
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.RazorTargetAssemblyInfo.cache
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.csproj.CopyComplete
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.pdb
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.genruntimeconfig.cache
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\appsettings.json
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\FeedyVetAPI.exe
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\FeedyVetAPI.deps.json
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\FeedyVetAPI.runtimeconfig.json
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\FeedyVetAPI.runtimeconfig.dev.json
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\FeedyVetAPI.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\FeedyVetAPI.pdb
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.csproj.AssemblyReference.cache
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.AssemblyInfoInputs.cache
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.AssemblyInfo.cs
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.csproj.CoreCompileInputs.cache
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\staticwebassets\FeedyVetAPI.StaticWebAssets.Manifest.cache
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\staticwebassets\FeedyVetAPI.StaticWebAssets.xml
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\FeedyVetAPI.styles.css
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.RazorTargetAssemblyInfo.cache
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.csproj.CopyComplete
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.pdb
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.genruntimeconfig.cache
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\IPCA\Projetos\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\FeedyVetAPI.exe
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\FeedyVetAPI.deps.json
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\FeedyVetAPI.runtimeconfig.json
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\FeedyVetAPI.runtimeconfig.dev.json
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\FeedyVetAPI.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\FeedyVetAPI.pdb
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.csproj.AssemblyReference.cache
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.AssemblyInfoInputs.cache
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.AssemblyInfo.cs
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.csproj.CoreCompileInputs.cache
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\staticwebassets\FeedyVetAPI.StaticWebAssets.Manifest.cache
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\staticwebassets\FeedyVetAPI.StaticWebAssets.xml
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\FeedyVetAPI.styles.css
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.RazorTargetAssemblyInfo.cache
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.csproj.CopyComplete
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.pdb
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.genruntimeconfig.cache
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\GitHub Projects\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\TrabalhosPraticos\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nfrv9\Documents\IPCA\PDS\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\joaoc\OneDrive\Ambiente de Trabalho\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\FeedyVetAPI.StaticWebAssets.xml
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\FeedyVetAPI.exe
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\FeedyVetAPI.deps.json
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\FeedyVetAPI.runtimeconfig.json
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\FeedyVetAPI.runtimeconfig.dev.json
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\FeedyVetAPI.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\FeedyVetAPI.pdb
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.csproj.AssemblyReference.cache
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.AssemblyInfoInputs.cache
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.AssemblyInfo.cs
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.csproj.CoreCompileInputs.cache
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\staticwebassets\FeedyVetAPI.StaticWebAssets.Manifest.cache
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.RazorTargetAssemblyInfo.cache
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.csproj.CopyComplete
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.dll
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.pdb
+C:\Users\duart\Documents\IPCA\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\obj\Debug\netcoreapp3.1\FeedyVetAPI.genruntimeconfig.cache
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gonçalo Cunha\Desktop\Feedy\Projeto\FeedyVetAPI\FeedyVetAPI\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll

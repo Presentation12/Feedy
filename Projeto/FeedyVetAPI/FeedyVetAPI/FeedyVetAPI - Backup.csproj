@@ -1,0 +1,61 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20220405130024_InitialCreate.cs" />
+    <Compile Remove="Migrations\20220405130024_InitialCreate.Designer.cs" />
+    <Compile Remove="Migrations\20220405130341_AddPassHashPassSalt.cs" />
+    <Compile Remove="Migrations\20220405130341_AddPassHashPassSalt.Designer.cs" />
+    <Compile Remove="Migrations\20220405131030_AddSalt.cs" />
+    <Compile Remove="Migrations\20220405131030_AddSalt.Designer.cs" />
+    <Compile Remove="Migrations\20220405134205_RemovePassSalt.cs" />
+    <Compile Remove="Migrations\20220405134205_RemovePassSalt.Designer.cs" />
+    <Compile Remove="Migrations\20220412174358_Rename_Clinica_To_Estabelecimento.cs" />
+    <Compile Remove="Migrations\20220412174358_Rename_Clinica_To_Estabelecimento.Designer.cs" />
+    <Compile Remove="Migrations\20220412182624_Rename_Clinica_Estabelecimento_Funcionario_Vet_v3.cs" />
+    <Compile Remove="Migrations\20220412182624_Rename_Clinica_Estabelecimento_Funcionario_Vet_v3.Designer.cs" />
+    <Compile Remove="Migrations\20220412182829_Rename_Clinica_Estabelecimento_Funcionario_Vet_v3.cs" />
+    <Compile Remove="Migrations\20220412182829_Rename_Clinica_Estabelecimento_Funcionario_Vet_v3.Designer.cs" />
+    <Compile Remove="Migrations\20220412182907_Rename_Clinica_Estabelecimento_Funcionario_Vet_v3.cs" />
+    <Compile Remove="Migrations\20220412182907_Rename_Clinica_Estabelecimento_Funcionario_Vet_v3.Designer.cs" />
+    <Compile Remove="Migrations\20220412191604_Avaliacao_Media_Estabelecimento.cs" />
+    <Compile Remove="Migrations\20220412191604_Avaliacao_Media_Estabelecimento.Designer.cs" />
+    <Compile Remove="Migrations\20220418144645_Tabela_Descontos.cs" />
+    <Compile Remove="Migrations\20220418144645_Tabela_Descontos.Designer.cs" />
+    <Compile Remove="Migrations\20220418145040_Tabela_Descontos.cs" />
+    <Compile Remove="Migrations\20220418145040_Tabela_Descontos.Designer.cs" />
+    <Compile Remove="Migrations\20220419145013_Table_Descontos.cs" />
+    <Compile Remove="Migrations\20220419145013_Table_Descontos.Designer.cs" />
+    <Compile Remove="Migrations\20220419150713_Table_Descontos.cs" />
+    <Compile Remove="Migrations\20220419150713_Table_Descontos.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="3.1.9" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.10">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="3.1.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="6.17.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.5" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.3" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.17.0" />
+    <PackageReference Include="System.Text.Json" Version="6.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Migrations\" />
+    <Folder Include="Photos\" />
+  </ItemGroup>
+
+
+</Project>

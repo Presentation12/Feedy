@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Servicos</title>
+</head>
+<body>
+
+    <div class ="section">
+          <div class="top_navbar">
+            <div class = "dropdown">
+              <img src="../../assets/images/notifications.jpg" class = "notifications">
+              <div class="dropdown-content-not" style="left:0;">
+                  <div class = "tablenot">
+                      <div class = "notrow" *ngFor="let notificacao of NotificacoesList" (click)="deleteNotificacao(notificacao)">
+                          <a class = "nottext">{{notificacao.Descricao}}</a>
+                          <a>{{ notificacao.DataNotificacao | date:"dd/MM/yy" }}</a>
+                      </div>
+                  </div>
+              </div>
+          </div>
+            <div class ="topPerfil">
+              <a>{{Cliente.Nome}} {{Cliente.Apelido}}</a>
+              <div class = "dropdown" style="float:right;">
+                  <img src="{{Cliente.ClienteFoto}}" class="perfil">
+                  <div class="dropdown-content">
+                      <a routerLink="/cliente/perfil">Editar Perfil</a>
+                      <a routerLink="/cliente/pagamentos">Pagamentos</a>
+                      <a routerLink="/cliente/encomendas">Encomendas</a>
+                      <a routerLink="/cliente/ajudacliente">Ajuda</a>
+                      <a routerLink="/cliente/login" (click)="logout()">Sair</a>
+                  </div>
+              </div>
+            </div>
+        </div>
+
+        <div *ngIf="success == 0" class="box">
+          <div class = "leftbox">
+            <div class="container listadoEdit listedAnimals">
+              <div *ngFor="let estabelecimento of Estabelecimento" class = "listanimais" (click)="selectAnimal(estabelecimento);listaCatalogoEstabelecimento();GetFuncionariosByEstabelecimento(estabelecimento.IdEstabelecimento)">
+                <img src={{estabelecimento.EstabelecimentoFoto}} class="logolistanimal">
+                <p class ="pa">{{estabelecimento.Nome}}</p>
+              </div>
+            </div>
+          </div>
+
+          <div *ngIf="check == 0" class="container listadoEdit" style="opacity:0">
+            <div class = "infoanimal">
+
+            </div>
+          </div>
+          <div *ngIf="check == 1" class="container listadoEdit" style="opacity:1">
+            <div class = "infoanimal">
+                <h2>Marcação de serviço</h2>
+                <div class="infologo">
+                    <img src="{{EstabelecimentoSelected.EstabelecimentoFoto}}" class="logoanimalinfo">
+                </div>
+                <div>
+                    <div class="inputs editable">
+                        <p class="sub">Estabelecimento</p>
+                        <input type="text" id="nome" placeholder="{{EstabelecimentoSelected.Nome}}" style="background-color:#f1f1f1" disabled="true"/>
+                    </div>
+                </div>
+                <div class="infologo">
+                  <div class ="inputs debaixo">
+                    <a style="font-weight: bold;color:black">Serviço</a>
+                    <select *ngIf="CatalogoList.length > 0" [(ngModel)]="idServicoCat">
+                      <option *ngFor="let catalogo of CatalogoList" style="color:black">
+                        {{catalogo.Tipo}} - #{{catalogo.IdServicoCatalogo}}
+                      </option>
+                    </select>
+                    <div *ngIf="CatalogoList.length <= 0">
+                      <a>Este estabelecimento não tem serviços disponíveis</a>
+                    </div>
+                  </div>
+                </div>
+                <div class="infologo">
+                  <div class ="inputs debaixo">
+                    <a style="font-weight: bold;color:black">Animal</a>
+                    <select *ngIf="AnimaisList.length > 0"  [(ngModel)]="idAnimal">
+                      <option *ngFor="let animal of AnimaisList" style="color:black;text-overflow:ellipsis">
+                        {{animal.Nome}} - #{{animal.IdAnimal}}
+                      </option>
+                    </select>
+                    <div *ngIf="AnimaisList.length <= 0">
+                      <a>Voce não tem quaisquer animais adicionados na Feedy!</a>
+                    </div>
+                    </div>
+                  </div>
+                <div class="infologo datePick">
+                  <a style="font-weight: bold;color:black">Hora e data</a>
+                  <input type="date" class="inputText" [(ngModel)]="data">
+                  <input type="time" class="inputText" [(ngModel)]="hora">
+                </div>
+                <div class="infologo">
+                  <div class ="inputs debaixo">
+                    <a style="font-weight: bold;color:black">Funcionario</a>
+                    <select *ngIf="FuncionariosList.length > 0" [(ngModel)]="idFuncionario">
+                      <option *ngFor="let funcionario of FuncionariosList" style="color:black">
+                        {{funcionario.Nome}} - #{{funcionario.IdFuncionario}}
+                      </option>
+                    </select>
+                    <div *ngIf="FuncionariosList.length <= 0">
+                      <a>Este estabelecimento não tem funcionários disponíveis</a>
+                    </div>
+                  </div>
+                </div>
+                <div class="infologo">
+                  <div class ="inputs debaixo">
+                    <a style="font-weight: bold;color:black">Metodo de Pagamento</a>
+                    <select [(ngModel)]="NewServico.MetodoPagamento">
+                      <option style="color:black">
+                        MBWay
+                      </option>
+                      <option style="color:black">
+                        Paypal
+                      </option>
+                      <option style="color:black">
+                        Visa
+                      </option>
+                    </select>
+                  </div>
+                </div>
+                <div *ngIf="FuncionariosList.length != 0 && CatalogoList.length != 0 && idServicoCat != '' && idAnimal != '' && data != '' && hora != '' && idFuncionario != '' && NewServico.MetodoPagamento != ''" class ="infobtn">
+                  <button class="editarbtn" (click)="MarcarServico()">Marcar Serviço</button>
+                </div>
+            </div>
+          </div>
+        </div>
+
+        <div *ngIf="success == 1" class="addAnimal checked">
+          <img src ="../../../../assets/images/checked.png">
+          <h4>Sucesso!</h4>
+          <a>O seu serviço foi marcado com sucesso!</a>
+          <button class = "saveChange" routerLink="/cliente">Continuar</button>
+        </div>
+
+    </div>
+
+    <div class="sidebar">
+        <div>
+            <a routerLink="/cliente">
+                <img src="../../assets/images/logo.svg" class="logo">
+            </a>
+            <ul>
+                <li>
+                    <a routerLink="/cliente">
+                        <span class="item">Início</span>
+                    </a>
+                </li>
+                <li>
+                    <a routerLink="/cliente/geriranimais">
+                        <span class="item">Gerir animais</span>
+                    </a>
+                </li>
+                <li>
+                    <a routerLink="/cliente/servicos" class="active">
+                        <span class="item">Serviços</span>
+                    </a>
+                </li>
+                <li>
+                  <a routerLink="/cliente/estabelecimentos">
+                      <span class="item">Estabelecimentos</span>
+                  </a>
+                </li>
+                <li>
+                  <a routerLink="/cliente/loja">
+                      <span class="item">Loja Online</span>
+                  </a>
+                </li>
+            </ul>
+        </div>
+        <div class="tips-container">
+          <div class="tip-container">
+              <h2>Dica</h2>
+              <p id="tip-text">{{tipText}}</p>
+              <div>
+                  <ul class="tip-buttons-container">
+                  </ul>
+              </div>
+          </div>
+      </div>
+    </div>
+</body>
+</html>

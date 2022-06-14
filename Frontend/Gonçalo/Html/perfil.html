@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="stylesheet" href="../css/geral.css">
+    <link rel="stylesheet" href="../css/perfil.css">
+    <link rel="shortcut icon" href="../Photos/icon.svg" />
+    <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
+    <title>Perfil - Utilizador</title>
+</head>
+
+<body>
+    <div class="section">
+        <div class="top_navbar">
+            <a>Nome do user</a>
+            <div class="dropdown" style="float:right;">
+                <img src="../Photos/gajo.jpg" class="perfil">
+                <div class="dropdown-content">
+                    <a href="perfil.html">Editar Perfil</a>
+                    <a href="#">Ajuda</a>
+                    <a href="#">Definições</a>
+                    <a href="#">Sair</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+
+            <img src="../Photos/gajo.jpg" class="foto">
+            <h2>Informação Pessoal</h2>
+
+            <div class="infos">
+                <div>
+                    <p>Nome</p>
+                    <input id="nome" type="text" placeholder="Pedro" disabled="true">
+                </div>
+                <div>
+                    <p>Apelido</p>
+                    <input id="apelido" type="text" placeholder="Montoia" disabled="true">
+                </div>
+            </div>
+            <div class="infos">
+                <div>
+                    <p>Mail</p>
+                    <input id="email" type="email" placeholder="pedrinho@gmail.com" disabled="true">
+                </div>
+                <div>
+                    <p>Telemóvel</p>
+                    <input id="tel" type="tel" placeholder="939678780" disabled="true">
+                </div>
+            </div>
+            <div class="buttons" id="buttons">
+                <input type="submit" value="Guardar" class="cancelar1">
+                <input type="submit" value="Cancelar" class="cancelar1">
+            </div>
+            <input type="submit" value="Editar" id="edit1">
+
+            <h2>Password</h2>
+            <div class="password" id="password">
+                <p>Nova password</p>
+                <div class="ver">
+                    <input id="pass" type="password" placeholder="Password">
+                    <input type="checkbox" onclick="mostraPass('pass')">
+                </div>
+                <p>Confirmação password</p>
+                <div class="ver">
+                    <input id="pass2" type="password" placeholder="Password">
+                    <input type="checkbox" onclick="mostraPass('pass2')">
+                </div>
+                <br>
+                <input type="submit" value="Guardar" class="cancelar2">
+                <input type="submit" value="Cancelar" class="cancelar2">
+            </div>
+            <input type="submit" value="Editar" id="edit2">
+
+        </div>
+
+        <div class="sidebar">
+            <img src="../Photos/logo.svg" class="logo">
+            <ul>
+                <li>
+                    <a href="#">
+                        <span class="item">Inicio</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="#">
+                        <span class="item">Gerir Animais</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="#">
+                        <span class="item">Serviços</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="#">
+                        <span class="item">Hotéis</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="#">
+                        <span class="item">Escolas</span>
+                    </a>
+                </li>
+            </ul>
+            <div class="dicasContainer">
+
+                <div class="dicas" id="dicas">
+
+                    <div class="slider-dica">
+                        <h4>Dica</h4>
+                        <p>Banho semanal</p>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+        <script src="../js/perfil.js"></script>
+</body>
+
+</html>

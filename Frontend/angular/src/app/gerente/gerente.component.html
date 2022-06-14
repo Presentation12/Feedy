@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="gerente.component.css" rel="stylesheet"/>
+    <title>Document</title>
+</head>
+<body>
+    <div class ="section">
+        <div class="top_navbar">
+            <div class = "dropdown">
+                <img src="../../assets/images/notifications.jpg" class = "notifications">
+                <div class="dropdown-content-not" style="left:0;">
+                  <div>
+                    <div class = "tablenot">
+                      <div *ngIf="NotificacaoList.length <= 0">
+                        <div class = "notrow">
+                          <a class = "nottext">Não tem notificações</a>
+                        </div>
+                      </div>
+                      <div *ngIf="NotificacaoList.length > 0">
+                        <div class = "tablenot">
+                          <div class = "notrow2" *ngFor="let notificacao of NotificacaoList" (click)="selectNot(notificacao)">
+                              <div class = "notrow">
+                                <a class = "nottext">{{notificacao.Descricao}}</a>
+                                <a>{{ notificacao.DataNotificacao | date:"dd/MM/yy" }}</a>
+                              </div>
+                              <div class = "notrowButtons">
+                                <button *ngIf="notificacao.Estado == 'Pedido'" class="apagarNot" (click)="RecusarPedido(notificacao)"> Recusar </button>
+                                <button *ngIf="notificacao.Estado != 'Pedido'" class="apagarNot" (click)="deleteNotificacao(notificacao)"> X </button>
+                                <button class="verNot" (click)="showDetailsNot()"> Ver </button>
+                                <button *ngIf="notificacao.Estado == 'Pedido'" class="verNot" (click)="AceitarPedido(notificacao)"> Aceitar </button>
+                              </div>
+                          </div>
+                      </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+            </div>
+            <div class ="topPerfil">
+                <a>{{Gerente.Nome}} {{Gerente.Apelido}}</a>
+                <div class = "dropdown" style="float:right;">
+                    <img src="{{Gerente.FuncionarioFoto}}" class="perfil">
+                    <div class="dropdown-content">
+                        <a routerLink="/gerente/perfil">Editar Perfil</a>
+                        <a routerLink="/gerente/faltar">Pedido Faltar</a>
+                        <a routerLink="/gerente/ajuda">Ajuda</a>
+                        <a routerLink="/gerente/avaliacoes">Avaliações</a>
+                        <a routerLink="/funcionario/login" (click)="logout()">Sair</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class = "box">
+
+          <div class="popupNotDetails" *ngIf="showDetails == 1">
+            <div>
+              <a>Descrição: </a>
+              <a>{{notDetail.Descricao}}</a>
+            </div>
+            <div>
+              <a>Data: </a>
+              <a>{{notDetail.DataNotificacao | date : 'dd/MM/yyyy'}}</a>
+            </div>
+            <button class="lembrete" style="width: 30%;align-self:center;margin-top: 20px" (click)="tiraDetails()">Confirmar</button>
+          </div>
+
+
+
+            <div class="container listado">
+                <div class ="dataHoraTop">{{Data | date: 'EEEE, dd MMMM yyyy'}}</div>
+
+                <div class ="statsright">
+                    <div class = "todo">
+                        <a style = "font-size: 19px;font-weight: bold;">{{ServicosToDo}} Serviços</a>
+                        <p>Por atender</p>
+                    </div>
+                    <div class = "done">
+                        <a style = "font-size: 19px;font-weight: bold;">{{ServicosDone}} Serviços</a>
+                        <p>Atendidos</p>
+                    </div>
+                </div>
+                <div *ngIf="ServicosToDo == 0 && ServicosDone > 0">
+                  <h3 style = "color:green;text-align:center">Concluiu todos os serviços de hoje, por agora!</h3>
+                </div>
+                <div *ngIf="ServicosToDo == 0 && ServicosDone == 0">
+                  <h3 style = "color:orange;text-align:center">Você não teve ainda nenhum serviço marcado para hoje</h3>
+                </div>
+                <div *ngFor="let func of ServicoList" class="left">
+                  <div class = "listfunc">
+                      <div class ="listfunc top_list">
+                          <div class = "listfunc hora_dia">
+                              <div style ="font-size: 21px;">{{func.DataServico | date:'HH:mm'}}</div>
+                              <div>Hoje - {{func.Nome}}</div>
+                          </div>
+                          <img src="{{func.FuncionarioFoto}}" class="logolistfunc">
+                      </div>
+
+                      <div class ="listfuncbuttons">
+                          <button (click)="editStatus(func)">Editar</button>
+                          <button (click)="showStatus(func)">Detalhes</button>
+                      </div>
+                  </div>
+
+                </div>
+                <div class="open-service-container" *ngIf="detailAtivo==1">
+                  <label style =" align-self:center">
+                      Nome Cliente
+                  </label>
+                  <input style ="width:50%; align-self:center" type="text" [ngModel]="funcio.NomeCliente" disabled><br>
+                  <label style =" align-self:center">
+                      Telemovel
+                  </label>
+                  <input style ="width:50%; align-self:center" type="text" [ngModel]="funcio.Telemovel" disabled><br>
+                  <label style =" align-self:center">
+                      E-mail
+                  </label>
+                  <input style ="width:50%; align-self:center" type="text" [ngModel]="funcio.Email" disabled><br>
+                  <label style =" align-self:center">
+                      Nome Animal
+                  </label>
+                  <input style ="width:50%; align-self:center" type="text" [ngModel]="funcio.NomeAnimal" disabled><br>
+                  <label style =" align-self:center">
+                      Descricao
+                  </label>
+                  <input style ="width:50%; align-self:center" type="text" [ngModel]="funcio.Descricao" disabled><br>
+                  <label style =" align-self:center">
+                      Data
+                  </label>
+                  <input style ="width:50%; align-self:center" type="datetime-local" [ngModel]="funcio.DataServico" disabled><br>
+                  <label style =" align-self:center">
+                      Estado
+                  </label>
+                  <select [ngModel]="funcio.Estado" disabled style ="width:50%; align-self:center">
+                      <option>Marcado</option>
+                      <option>Cancelado</option>
+                      <option>Concluido</option>
+                  </select><br>
+
+                  <button style ="width:50%; align-self:center" (click)="hideStatus()">Fechar</button>
+
+                </div>
+
+                <div class="open-service-container" *ngIf="detailAtivo==2">
+                  <label style =" align-self:center">
+                    Data
+                  </label>
+                  <input style ="width:50%; align-self:center" type="datetime-local" [(ngModel)]="funcio.DataServico" (change)="checkInfo(funcio)"><br>
+                  <label style =" align-self:center">
+                      Estado
+                  </label>
+                  <select [(ngModel)]="funcio.Estado" style ="width:50%; align-self:center" (change)="checkInfo(funcio)">
+                      <option>Marcado</option>
+                      <option>Cancelado</option>
+                      <option>Concluido</option>
+                  </select><br>
+
+                  <button *ngIf="canSubmit==1" style ="width:50%; align-self:center" (click)="updateServico(funcio)">Alterar</button>
+                  <button style ="width:50%; align-self:center;margin-top:10px" (click)="hideStatus()">Fechar</button>
+
+                </div>
+            </div>
+
+            <div class="container listado">
+                <div class ="statsleft">
+                    <div class="faturado">
+                        <a style="color:#5C2976;font-weight:bold;">{{Lucro}} €</a>
+                        <p>Faturados</p>
+                    </div>
+                    <div class="classificacao">
+                        <div *ngIf="AvaliacoesList.length == 0" class = "commentsSliderTop" style ="padding-left:0;text-align:center;">
+                          <a style="left: 0; font-size:15px;">Sem avaliações</a>
+                        </div>
+                        <div *ngIf="AvaliacoesList.length != 0" class="classificaoChild">
+                            <a style="font-weight:bold;">{{Estabelecimento.AvaliacaoMedia | number : '1.1-1'}}</a>
+                            <a>{{AvaliacoesNumber}}</a>
+                        </div>
+                        <div *ngIf="Estabelecimento.AvaliacaoMedia <= 5 && Estabelecimento.AvaliacaoMedia >= 4.5 && AvaliacoesList.length != 0" class="starsCount">
+                            <img src="../../assets/images/5_star.png" class="stars" style = "height: 20px;">
+                        </div>
+                        <div *ngIf="Estabelecimento.AvaliacaoMedia < 4.5 && Estabelecimento.AvaliacaoMedia >= 3.8 && AvaliacoesList.length != 0" class="starsCount">
+                            <img src="../../assets/images/4_star.png" class="stars">
+                        </div>
+                        <div *ngIf="Estabelecimento.AvaliacaoMedia < 3.8 && Estabelecimento.AvaliacaoMedia >= 2.8 && AvaliacoesList.length != 0" class="starsCount">
+                            <img src="../../assets/images/3_star.png" class="stars" style = "height: 20px;">
+                        </div>
+                        <div *ngIf="Estabelecimento.AvaliacaoMedia < 2.8 && Estabelecimento.AvaliacaoMedia >= 1.8 && AvaliacoesList.length != 0" class="starsCount">
+                            <img src="../../assets/images/2_star.png" class="stars" style = "height: 20px;">
+                        </div>
+                        <div *ngIf="Estabelecimento.AvaliacaoMedia < 1.8 && Estabelecimento.AvaliacaoMedia > 0 && AvaliacoesList.length != 0" class="starsCount">
+                            <img src="../../assets/images/1_star.png" class="stars" style = "height: 20px;">
+                        </div>
+                        <div *ngIf="Estabelecimento.AvaliacaoMedia <= 0 && AvaliacoesList.length != 0" class="starsCount">
+                            <img src="../../assets/images/0_star.png" class="stars" style = "height: 20px;">
+                        </div>
+                    </div>
+                </div>
+
+                <div class ="commentsSlider">
+                  <div *ngIf="!Estabelecimento || !LastAvaliacao" class = "commentsSliderTop" style="justify-content:center">
+                    <a style="margin: 5px;padding-left:0;font-size:15px;">Sem avaliações</a>
+                  </div>
+                    <div *ngIf="Estabelecimento && LastAvaliacao" class = "commentsSliderTop">
+                        <img src="{{LastAvaliacao.ClienteFoto}}" class="perfilcomment">
+                        <div class = "commentsSliderInside">
+                            <p class = "pa">{{LastAvaliacao.Nome}}</p>
+                            <a>"{{LastAvaliacao.Texto}}"</a>
+                            <div *ngIf="LastAvaliacao.Avaliacao <= 5 && LastAvaliacao.Avaliacao >= 4.5" class="starsCount" style="justify-content: center;">
+                              <img src="../../assets/images/5_star.png" class="stars" style="height:20px">
+                          </div>
+                          <div *ngIf="LastAvaliacao.Avaliacao < 4.5 && LastAvaliacao.Avaliacao >= 3.8" class="starsCount" style="justify-content: center;">
+                              <img src="../../assets/images/4_star.png" class="stars">
+                          </div>
+                          <div *ngIf="LastAvaliacao.Avaliacao < 3.8 && LastAvaliacao.Avaliacao >= 2.8" class="starsCount" style="justify-content: center;">
+                              <img src="../../assets/images/3_star.png" class="stars" style="height:20px">
+                          </div>
+                          <div *ngIf="LastAvaliacao.Avaliacao < 2.8 && LastAvaliacao.Avaliacao >= 1.8" class="starsCount" style="justify-content: center;">
+                              <img src="../../assets/images/2_star.png" class="stars" style="height:20px">
+                          </div>
+                          <div *ngIf="LastAvaliacao.Avaliacao < 1.8 && LastAvaliacao.Avaliacao > 0" class="starsCount" style="justify-content: center;">
+                              <img src="../../assets/images/1_star.png" class="stars" style="height:20px">
+                          </div>
+                          <div *ngIf="LastAvaliacao.Avaliacao <= 0" class="starsCount" style="justify-content: center;">
+                              <img src="../../assets/images/0_star.png" class="stars" style="height:20px">
+                          </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class = "histAnimais">
+                    <div *ngIf="AnimaisServicoList.length == 0" style="text-align:center">
+                      <a style="margin: 10px;font-size:15px;">Este estabelecimento não tem serviços no histórico</a>
+                    </div>
+                    <div *ngFor="let animal of AnimaisServicoList" class="histAnimaisLi" routerLink="/gerente/servicos">
+                        <img src="{{animal.AnimalFoto}}">
+                        <div class="histAnimaisDados">
+                            <a>{{animal.Nome}}</a>
+                            <div class="histAnimaisDadosChild">
+                                <p class="histanimaisli-pa">{{animal.Descricao}}</p>
+                                <p class="histanimaisli-pa">{{animal.DataServico | date : 'dd/MM/yyyy'}}</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <a style="margin-top:5px;color: #242424;font-size: 14px;font-weight: 600;align-self:center;">Histórico Recente</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="sidebar">
+        <div>
+            <a routerLink="/gerente">
+                <img src="../../assets/images/logo.svg" class="logo">
+            </a>
+            <ul>
+                <li>
+                    <a routerLink="/gerente" class="active">
+                        <span>Início</span>
+                    </a>
+                </li>
+                <li>
+                    <a routerLink="/gerente/servicos">
+                        <span>Histórico</span>
+                    </a>
+                </li>
+                <li>
+                    <a routerLink="/gerente/gerirfuncionarios">
+                        <span>Funcionários</span>
+                    </a>
+                </li>
+                <li>
+                    <a routerLink="/gerente/veranimais">
+                        <span>Animais</span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>

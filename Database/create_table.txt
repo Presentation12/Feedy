@@ -1,0 +1,114 @@
+create table Morada(
+	id_morada int identity(1,1),
+	rua varchar(60) not null,
+	porta int not null,
+	andar int,
+	codigo_postal varchar(10) not null,
+	freguesia varchar(40) not null,
+	distrito varchar(40) not null,
+	concelho varchar(40) not null,
+	pais varchar(30) not null,
+
+	constraint pk_id_morada primary key (id_morada)
+)
+
+create table Cliente(
+	id_cliente int identity(1,1),
+	nome varchar(50) not null,
+	apelido varchar(50) not null,
+	id_morada int,
+	email varchar(60) not null,
+	telemovel int,
+	pass varchar(20) not null,
+	tipo_conta varchar(10) not null,
+	valor_conta float,
+	cliente_foto varchar(500),
+	
+	constraint pk_id_cliente primary key (id_cliente),
+	constraint fk_id_morada foreign key (id_morada) references Morada(id_morada)
+)
+
+create table Veterinario(
+	id_veterinario int identity(1 ,1),
+	nome varchar(20) not null,
+	apelido varchar(20),
+	estado varchar(15) not null,
+	especialidade varchar(100) not null,
+	email varchar(50),
+	telemovel int,
+	pass varchar(20) not null,
+	codigo int not null,
+	veterinario_foto varchar(500)
+
+	constraint pk_id_veterinario primary key (id_veterinario)
+)
+
+create table Clinica_Gerente(
+	id_clinica int not null,
+	id_veterinario int not null,
+
+	constraint pk_clinica_gerente primary key (id_clinica, id_veterinario)
+)
+
+
+create table Servico_Catalogo(
+	id_servico_catalogo int identity(1, 1),
+	id_clinica int not null,
+	estado varchar(15) not null,
+	tipo varchar(25) not null,
+	preco float not null,
+	descricao varchar(250),
+	catalogo_foto varchar(500),
+
+	constraint pk_id_servico_catalogo primary key (id_servico_catalogo),
+	constraint fk_id_clinica_catalogo foreign key (id_clinica) references Clinica(id_clinica)
+)
+
+create table Servico(
+	id_servico int identity(1, 1),
+	id_cliente int not null,
+	id_animal int not null,
+	id_veterinario int not null,
+	id_clinica int not null,
+	id_servico_catalogo int not null,
+	data_servico datetime not null,
+	descricao varchar(250) not null,
+	estado varchar(35) not null,
+
+	constraint pk_id_servico primary key (id_servico),
+	constraint fk_id_cliente_servico foreign key (id_cliente) references Cliente(id_cliente),
+	constraint fk_id_animal_servico foreign key (id_animal) references Animal(id_animal),
+	constraint fk_id_veterinario_servico foreign key (id_veterinario) references Veterinario(id_veterinario),
+	constraint fk_id_clinica_servico foreign key (id_clinica) references Clinica(id_clinica),
+	constraint fk_id_catalogo_servico foreign key (id_servico_catalogo) references Servico_Catalogo(id_servico_catalogo),
+)
+
+create table Servico_Prescricao(
+	id_servico_prescricao int identity(1 ,1),
+	id_servico int not null,
+	id_prescricao int not null,
+
+	constraint pk_id_servico_prescricao primary key (id_servico_prescricao),
+	constraint fk_id_servico_prescricao foreign key (id_servico) references Servico(id_servico),
+	constraint fk_id_prescricao_servico foreign key (id_prescricao) references Prescricao(id_prescricao),
+)
+
+create table Veterinario_Clinica(
+	id_veterinario_clinica int identity (1, 1),
+	id_veterinario int not null,
+	id_clinica int not null,
+	data_inicio datetime not null,
+	data_fim datetime not null,
+
+	constraint pk_id_veterinario_clinica primary key (id_veterinario_clinica),
+	constraint fk_id_veterinario_clinica foreign key (id_veterinario) references Veterinario(id_veterinario),
+	constraint fk_id_clinica_veterinario foreign key (id_clinica) references Clinica(id_clinica)
+)
+
+create table Horario_Clinica(
+	id_clinica_horario int identity(1, 1),
+	id_clinica int not null,
+	horario_abertura varchar(10) not null,
+	horario_encerramento varchar(10) not null,
+	dia_semana varchar(10) not null,
+)

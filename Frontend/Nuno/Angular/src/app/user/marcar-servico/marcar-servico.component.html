@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="marcar-servico.component.css" rel="stylesheet"/>
+    <title>User Historico</title>
+</head>
+<body>
+    <div class ="section">
+       
+        <div class="top_navbar">
+            
+              
+           
+            </div>
+            <div class ="topPerfil">
+                <a>Nome User</a>
+                <div class = "dropdown" style="float:right;">
+                    <img src="assets/gajo.png" class="perfil">
+                    <div class="dropdown-content">
+                        <a routerLink="/geriranimais" onclick="NaoFazParteDaMinhaParte()">Editar Perfil</a>
+                        <a routerLink="/pagamentos">Pagamentos</a>
+                        <a routerLink="/encomendas">Encomendas</a>
+                        <a routerLink="/ajuda">Ajuda</a>
+                        <a routerLink="/geriranimais" onclick="NaoFazParteDaMinhaParte()">Sair</a>
+                    </div>
+                </div>
+           
+        </div>
+
+        <div class="mainContent">
+
+
+        <div class ="selectbox">
+            <div class="selected">
+                Estabelecimento
+            </div>
+            <div class="option">
+             <select type="text" class="input text"[(ngModel)]="selectedC" (change)="listaCatalogoEstabelecimento()">
+                 <option *ngFor="let e of Estabelecimento" aria-placeholder="pl" (click)="selecionarClinica(e)" >{{ e.Nome }} </option>
+             </select>
+            </div> 
+           
+         </div>
+
+        <div class ="selectbox">
+            <div class="selected">
+                Serviços
+            </div>
+           <div class="option">
+            <select class="form-select"[(ngModel)]="selectedS">
+                <option *ngFor="let s of CatalogoList" aria-placeholder="pl">{{ s.Tipo}} </option>
+            </select>
+           </div> 
+           
+        </div>
+
+         
+
+       <!--   <div class ="selectbox">
+            <div class="selected">
+                Animal
+            </div>
+            <div class="option">
+             <select class="form-select"[(ngModel)]="selectedA">
+                 <option *ngFor="let a of animal" aria-placeholder="pl">{{ a }} </option>
+             </select>
+            </div> 
+            
+         </div>
+
+         <div class ="selectbox">
+            <div class="selected">
+                Data
+              </div>
+            <div class="option">
+             <input type="datetime-local">
+            </div> 
+            
+         </div> -->
+
+
+        </div>
+
+
+    </div>
+
+    <div class="sidebar">
+        <div>
+            <a routerLink="../cliente">
+                <img src="assets/logo.svg" class="logo">
+            </a>
+            <ul>
+                <li>
+                    <a routerLink="../cliente">
+                        <span class="item">Início</span>
+                    </a>
+                </li>
+                <li>
+                    <a routerLink="/geriranimais">
+                        <span class="item">Gerir animais</span>
+                    </a>
+                </li>
+                <li>
+                    <a routerLink="/geriranimais">
+                        <span class="item">Serviços</span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <!-- <div class="tips-container">
+          <div class="tip-container">
+              <h2>Dica</h2>
+              <p id="tip-text">{{tipText}}</p>
+              <div>
+                  <ul class="tip-buttons-container">
+                  </ul>
+              </div>
+          </div>
+      </div> -->
+    </div>
+</body>
+</html>
+<router-outlet></router-outlet>

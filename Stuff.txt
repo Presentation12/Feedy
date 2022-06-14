@@ -1,0 +1,4 @@
+entity framework
+	-> database 1º
+modelview controller
+azure

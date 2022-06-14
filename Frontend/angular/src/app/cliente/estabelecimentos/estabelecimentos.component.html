@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="estabelecimentos.component.css">
+  <title>Document</title>
+</head>
+<body>
+  <div class="section">
+
+    <div class="top_navbar">
+        <a>{{Cliente.Nome}} {{Cliente.Apelido}}</a>
+        <div class="dropdown">
+            <img src="{{Cliente.ClienteFoto}}" class="perfil">
+            <div class="dropdown-content">
+                <a routerLink="/cliente/perfil">Editar Perfil</a>
+                <a routerLink="/cliente/pagamentos">Pagamentos</a>
+                <a routerLink="#">Historico</a>
+                <a routerLink="/cliente/encomendas">Encomendas</a>
+                <a routerLink="/cliente/ajudacliente">Ajuda</a>
+                <a routerLink="/cliente/login" (click)="logout()">Sair</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+
+        <div class="filters">
+            <a>Nome</a>
+            <input type="text" placeholder="Nome" class="barra" />
+            <a>Tipo</a>
+            <select id="tipoOp">
+                <option value="---">---</option>
+                <option value="Clinica">Clinica</option>
+                <option value="Escola">Escola</option>
+                <option value="Hotel">Hotel</option>
+            </select>
+            <a>Distrito</a>
+            <select id="distritoOp">
+                <option value="---">---</option>
+                <option *ngFor="let distrito of ListaDistritos" value="{{distrito}}">{{distrito}}</option>
+            </select>
+            <input type="submit" value="Pesquisar" id="filtro" (click)="Filter()" />
+        </div>
+
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                    </th>
+                    <th>Nome</th>
+                    <th>Tipo</th>
+                    <th>Distrito</th>
+                    <th>Contacto</th>
+                    <th>Avaliação</th>
+                    <th>
+                    </th>
+                </tr>
+            </thead>
+            <tbody class="bodytable">
+                <tr class="lineTable" *ngFor="let estabelecimento of ListaEstabelecimentos">
+                    <td>
+                        <img src="{{estabelecimento.EstabelecimentoFoto}}" class="estab">
+                    </td>
+                    <td class="nome">{{estabelecimento.Nome}}</td>
+                    <td class="tipo">{{estabelecimento.TipoEstabelecimento}}</td>
+                    <td class="distrito">{{estabelecimento.Distrito}}</td>
+                    <td>{{estabelecimento.Contacto}}</td>
+                    <td>{{estabelecimento.AvaliacaoMedia | number : '1.1-1'}}</td>
+                    <td style="display:flex;flex-direction:column;gap:5px;margin-top:5px;">
+                      <input type="submit" value="Detalhes" id="detalhes" (click)="Details(estabelecimento)" />
+                        <input type="submit" value="Avaliar" id="detalhes" (click)="Avaliar(estabelecimento)" />
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+
+    </div>
+
+</div>
+
+<div class="sidebar">
+    <img src="../../../assets/images/logo.svg" class="logo" style="cursor:pointer" routerLink="/cliente">
+    <ul>
+        <li>
+            <a routerLink="/cliente">
+                <span class="item">Inicio</span>
+            </a>
+        </li>
+        <li>
+            <a routerLink="/cliente/geriranimais">
+                <span class="item">Gerir Animais</span>
+            </a>
+        </li>
+        <li>
+            <a routerLink="/cliente/servicos">
+                <span class="item">Serviços</span>
+            </a>
+        </li>
+        <li>
+            <a routerLink="/cliente/estabelecimentos" class="active">
+                <span class="item">Estabelecimentos</span>
+            </a>
+        </li>
+        <li>
+            <a routerLink="/cliente/loja">
+                <span class="item">Loja Online</span>
+            </a>
+        </li>
+    </ul>
+    <div class="dicasConteiner">
+
+        <div class="dicas" id="dicas">
+
+            <div class="slider-dica">
+                <h4>Dica</h4>
+                <p id="tip-text">{{tipText}}</p>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<div *ngIf="DetalheCheck==1" class="show" id="show">
+    <div class="box">
+        <div class="opacity">
+        </div>
+        <div class="mensagem">
+            <h1>Detalhes</h1>
+            <div class="detalhesTexto">
+                <div class="detalhesTextoLinha">
+                    <a>Pais:</a>
+                    <a>{{EstabelecimentoSelecionado.Pais}}</a>
+                </div>
+                <div class="detalhesTextoLinha">
+                    <a>Distrito:</a>
+                    <a>{{EstabelecimentoSelecionado.Distrito}}</a>
+                </div>
+                <div class="detalhesTextoLinha">
+                    <a>Concelho:</a>
+                    <a>{{EstabelecimentoSelecionado.Concelho}}</a>
+                </div>
+                <div class="detalhesTextoLinha">
+                    <a>Freguesia:</a>
+                    <a>{{EstabelecimentoSelecionado.Freguesia}}</a>
+                </div>
+                <div class="detalhesTextoLinha">
+                    <a>Rua:</a>
+                    <a>{{EstabelecimentoSelecionado.Rua}}</a>
+                </div>
+                <div class="detalhesTextoLinha">
+                    <a>Porta:</a>
+                    <a>{{EstabelecimentoSelecionado.Porta}}</a>
+                </div>
+                <div class="detalhesTextoLinha">
+                    <a>Andar:</a>
+                    <a>{{EstabelecimentoSelecionado.Andar}}</a>
+                </div>
+                <div class="detalhesTextoLinha">
+                    <a>Código Postal:</a>
+                    <a>{{EstabelecimentoSelecionado.CodigoPostal}}</a>
+                </div>
+            </div>
+            <input id="ok" type="submit" value="Ok" (click)="Ok()" />
+        </div>
+    </div>
+</div>
+<div *ngIf="DetalheCheck==2" class="show" id="show">
+  <div class="box">
+      <div class="opacity">
+      </div>
+      <div class="mensagem">
+          <h1>Detalhes</h1>
+          <div class="detalhesTexto" style="gap:10px;">
+              <div class="detalhesTextoLinha">
+                  <a>Classificação: </a>
+                  <input type="number" placeholder="Avaliação" min="0" max ="5" [(ngModel)]="Comentario.Avaliacao">
+              </div>
+              <div class="detalhesTextoLinha">
+                <a>Comentário: </a>
+                <input type="text" placeholder="Comentário" [(ngModel)]="Comentario.Texto">
+            </div>
+          </div>
+          <input id="ok" type="submit" value="Ok" (click)="SubmitComment()" />
+      </div>
+  </div>
+</div>
+</body>
+</html>

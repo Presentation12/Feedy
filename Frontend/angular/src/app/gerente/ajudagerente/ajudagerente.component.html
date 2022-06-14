@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" routerLink="ajudagerente.component.css">
+  <title>ajudaGerente</title>
+</head>
+<body>
+  <div class="section">
+
+    <div class="top_navbar">
+        <a>Dr. {{Gerente.Nome}} {{Gerente.Apelido}}</a>
+        <div class="dropdown">
+            <img src="{{Gerente.FuncionarioFoto}}" class="perfil">
+            <div class="dropdown-content">
+                <a routerLink="/gerente/perfil">Editar Perfil</a>
+                <a routerLink="/gerente/faltar">Pedido Faltar</a>
+                <a routerLink="/gerente/ajuda">Ajuda</a>
+                <a routerLink="/gerente/avaliacoes">Avaliações</a>
+                <a routerLink="/funcionario/login" (click)="logout()">Sair</a>
+            </div>
+        </div>
+    </div>
+
+    <form class="help">
+        <h1>Ajuda</h1>
+        <div class="inputs">
+            <input id="assunto" type="text" placeholder="Assunto" />
+        </div>
+        <textarea id="descricao" placeholder="Descreva o problema ..."></textarea>
+        <div class="submits">
+            <input id="submeter" type="submit" value="Submeter" (click)="Submit()" />
+        </div>
+    </form>
+
+</div>
+
+<div class="sidebar">
+    <img src="../../../assets/images/logo.svg" class="logo" style ="cursor:pointer" routerLink="/gerente">
+    <ul>
+        <li>
+            <a routerLink="/gerente">
+                <span class="item">Inicio</span>
+            </a>
+        </li>
+        <li>
+            <a routerLink="/gerente/servicos">
+                <span class="item">Histórico</span>
+            </a>
+        </li>
+        <li>
+            <a routerLink="/gerente/gerirfuncionarios">
+                <span class="item">Funcionários</span>
+            </a>
+        </li>
+        <li>
+            <a routerLink="/gerente/veranimais">
+                <span class="item">Animais</span>
+            </a>
+        </li>
+    </ul>
+
+</div>
+
+<div class="show" id="show">
+    <div class="box">
+        <div class="opacity">
+        </div>
+        <div class="mensagem">
+            <h1>Sucesso</h1>
+            <input id="ok" type="submit" value="Ok" (click)="Ok()" />
+        </div>
+    </div>
+</div>
+
+<div class="show2" id="show2">
+    <div class="box">
+        <div class="opacity">
+        </div>
+        <div class="mensagem">
+            <h1>Erro</h1>
+            <p>Elementos em falta</p>
+            <input id="ok" type="submit" value="Ok" (click)="Ok()" />
+        </div>
+    </div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Prescricoes</title>
+</head>
+<body>
+  <nav class="side-bar">
+    <div class="logo-container">
+        <img src="{{logoSrc}}" class="logo" style="cursor:pointer" routerLink="/funcionario">
+    </div>
+    <div class="buttons-container">
+      <ul class="buttons-list">
+        <a href="/funcionario"><li>
+            Início
+        </li></a>
+        <a href="/funcionario/veranimais">
+            <li>
+                Animais
+            </li>
+        </a>
+        <a href="/funcionario/perfil">
+          <li>
+              Editar Perfil
+          </li>
+      </a>
+        <a href="/funcionario/prescricoes" class="selected">
+            <li>
+                Prescrições
+            </li>
+        </a>
+        <a href="/funcionario/faltar">
+          <li>
+              Pedido Faltar
+          </li>
+        </a>
+        <a href="/funcionario/ajuda">
+          <li>
+              Ajuda
+          </li>
+      </a>
+      <a href="/funcionario/login" (click)="logout()">
+        <li>
+            Sair
+        </li>
+    </a>
+
+
+        </ul>
+    </div>
+</nav>
+<div class="content">
+    <div class="top-content">
+        <div class="left-container">
+            <ul class="navigation-buttons-container">
+            </ul>
+        </div>
+        <div class="right-container">
+            <h2>Dr. {{veterinario.Nome}} {{veterinario.Apelido}}</h2>
+            <img src="{{veterinario.FuncionarioFoto}}" alt="Doctor">
+        </div>
+    </div>
+    <div class="bottom-content">
+        <div class="table-container">
+            <table>
+                <tr class="table-header">
+                    <th width="13%">Tipo</th>
+                    <th width="13%">Nome</th>
+                    <th width="13%">Quantidade</th>
+                    <th width="13%">Prazo</th>
+                    <th width="13%">Cliente</th>
+                    <th width="13%">Clínica</th>
+                    <th class="buttons-header" >
+                        <input type="text" placeholder="Pesquisar" [(ngModel)]="filterText">
+                        <button class="btn-call-to-action">Filtro</button>
+                    </th>
+                </tr>
+                <tr *ngFor="let prescricoes of prescricoes | filter:filterText" class="table-row">
+                    <td>{{prescricoes.Tipo}}</td>
+                    <td>{{prescricoes.NomeMedicamento}}</td>
+                    <td>{{prescricoes.QuantidadeStock}}</td>
+                    <td>{{prescricoes.DataExpiracao}}</td>
+                    <td>{{prescricoes.NomeCliente}}</td>
+                    <td>{{prescricoes.NomeEstabelecimento}}</td>
+                    <td></td>
+                </tr>
+
+
+            </table>
+        </div>
+    </div>
+</div>
+</body>
+</html>

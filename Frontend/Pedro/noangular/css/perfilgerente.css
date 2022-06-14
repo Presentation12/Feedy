@@ -1,0 +1,217 @@
+.cliente{
+    font-size: 15px;
+}
+
+.dataHoraTop{
+    color:#5C2976;
+    font-size: 23px;
+    font-weight: bold;
+    overflow: visible;
+    text-overflow: clip;
+}
+
+.stats{
+    width: 350px;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    align-self: center;
+}
+
+.statsright{
+    display: flex;
+    gap: 10px;
+    justify-content: space-between;
+}
+
+.statsleft{
+    display: flex;
+    gap: 10px;
+    justify-content: space-between;
+}
+
+.stars{
+    height: 20px;
+    width: 20px;
+}
+
+.starsCount{
+    display: flex;
+    flex-direction: row;
+}
+
+.todo, .done{
+    display: flex;
+    flex-direction: column;
+    background-color: #F1F1F1;
+    border-radius: 25px 25px 25px 25px;
+    padding: 15px;
+    padding-bottom: 30px;
+}
+
+.faturado, .classificacao{
+    display: flex;
+    width: 40%;
+    flex-direction: column;
+    background-color: #F1F1F1;
+    border-radius: 25px 25px 25px 25px;
+    padding: 15px;
+    padding-bottom: 30px;
+}
+
+.classificaoChild{
+    display: flex;
+    justify-content: space-between;
+}
+
+.listfunc{ 
+    display: flex;
+    flex-direction: column;
+    background-color: #F1F1F1;
+    border-radius: 15px 15px 15px 15px;
+    padding: 5px;
+}
+
+.commentsSlider{
+    display: flex;
+    flex-direction: column;
+    background-color: #F1F1F1;
+    border-radius: 15px 15px 15px 15px;
+    padding: 10px;
+    align-items: center;
+}
+
+.commentsSliderTop{
+    display: flex;
+    gap: 50px;
+    width: 100%;
+    padding-left: 20px;
+}
+
+.perfilcomment{
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+    object-position: top;
+    border-radius: 50%;
+    cursor: pointer;
+    align-self: center;
+}
+
+.commentsSliderInside{
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.commentsSliderInside pa{
+    font-weight: bold;
+}
+
+.histAnimais{
+    display: flex;
+    flex-direction: column;
+    background-color: #F1F1F1;
+    border-radius: 15px 15px 15px 15px;
+    padding: 5px;
+    gap:7px;
+}
+
+.histAnimais img{
+    cursor: pointer;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.histAnimaisLi{
+    display: flex;
+    background-color: #FFFFFF;
+    padding: 10px 10px 10px 20px;
+    border-radius: 50px 50px 50px 50px;
+    gap: 15px;
+}
+
+.histAnimaisLi:hover{
+    cursor: pointer;
+    background-color: rgb(159, 159, 159);
+}
+
+.histAnimaisLi a{
+    color: #242424;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.histAnimaisLi pa{
+    color: #555555;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.histAnimaisDados{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.histAnimaisDadosChild{
+    display: flex;
+    flex-direction: column;
+}
+
+.hora_dia{
+    display: flex;
+    flex-direction: column;
+}
+
+.top_list{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.logolistfunc{
+    cursor: pointer;
+    width: 50px;
+    height: 50px;
+    border-radius: 25%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.listfuncbuttons{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    gap: 10px;
+    align-self: center;
+    margin-top: 5px;
+}
+
+.listfuncbuttons button{
+    font-family: Poppins-Regular, sans-serif;
+    font-size: 14px;
+    width: 80%;
+    padding: 5px;
+    cursor: pointer;
+    background-color: #5C2976;
+    border: 2px solid #5C2976;
+    color: white;
+    border-radius: 15px 15px 15px 15px;
+}
+
+.listfuncbuttons button:hover{
+    background-color: white;
+    border: 2px solid #5C2976;
+    color: #5C2976;
+}
+
+.listfuncbuttons button:active{
+    background-color: #5C2976;
+    border: 2px solid #5C2976;
+    color: white;
+}

@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" routerLink="ajudagerente.component.css">
+    <title>ajudaGerente</title>
+</head>
+
+<body>
+    <div class="section">
+
+        <div class="top_navbar">
+            <a>Dr. {{Gerente.Nome}} {{Gerente.Apelido}}</a>
+            <div class="dropdown">
+                <img src="{{Gerente.FuncionarioFoto}}" class="perfil">
+                <div class="dropdown-content">
+                    <a routerLink="/gerente/perfil">Editar Perfil</a>
+                    <a routerLink="/gerente/faltar">Pedido Faltar</a>
+                    <a routerLink="/gerente/ajuda">Ajuda</a>
+                    <a routerLink="/gerente/avaliacao">Avaliações</a>
+                    <a routerLink="/funcionario/login" (click)="logout()">Sair</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>
+                        </th>
+                        <th>Nome</th>
+                        <th>Texto</th>
+                        <th>Avaliacao</th>
+                        <th>DataAvaliacao</th>
+                    </tr>
+                </thead>
+                <tbody class="bodytable">
+                    <tr class="lineTable" *ngFor="let avaliacao of ListAvaliacoes">
+                        <td>
+                            <img src="{{avaliacao.ClienteFoto}}" class="estab">
+                        </td>
+                        <td>{{avaliacao.Nome}}</td>
+                        <td>{{avaliacao.Texto}}</td>
+                        <td>{{avaliacao.Avaliacao | number : '1.1-1'}}</td>
+                        <td>{{avaliacao.DataAvaliacao | date: 'dd-MM-yyyy'}}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+    </div>
+
+    <div class="sidebar">
+        <img src="../../../assets/images/logo.svg" class="logo" style="cursor:pointer" routerLink="/gerente">
+        <ul>
+            <li>
+                <a routerLink="/gerente">
+                    <span class="item">Inicio</span>
+                </a>
+            </li>
+            <li>
+                <a routerLink="/gerente/servicos">
+                    <span class="item">Histórico</span>
+                </a>
+            </li>
+            <li>
+                <a routerLink="/gerente/gerirfuncionarios">
+                    <span class="item">Funcionários</span>
+                </a>
+            </li>
+            <li>
+                <a routerLink="/gerente/veranimais">
+                    <span class="item">Animais</span>
+                </a>
+            </li>
+        </ul>
+
+    </div>
+
+</body>
+
+</html>

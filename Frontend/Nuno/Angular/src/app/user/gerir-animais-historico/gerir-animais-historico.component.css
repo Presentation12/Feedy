@@ -1,0 +1,295 @@
+.logolistanimal{
+    width: 100px;
+    height: 100px;
+    border: 5px solid white;
+    border-radius: 25%;
+    object-fit: cover;
+    object-position: center;
+  }
+  
+  .listanimais{
+    display: flex;
+    flex-direction: row;
+    background-color: #F1F1F1;
+    border-radius: 30px 15px 15px 30px;
+    cursor:pointer;
+  }
+  
+  .activeanimal{
+    background-color: #cacaca;
+  }
+  
+  .listanimais:hover{
+    background-color: #cacaca;
+  }
+  
+  .listanimais:active{
+    background-color: gray;
+  }
+  
+  .pa{
+    cursor: pointer;
+    align-self: center;
+    padding-left: 15px;
+    color: #242424;
+    font-size: 18px;
+    font-weight: 600;
+  }
+  
+  .selected{
+    width: 115px;
+    height: 115px;
+    border: 5px solid rgb(232, 232, 232);
+    border-radius: 25%;
+    object-fit: cover;
+    object-position: center;
+  }
+  
+  .animalselected{
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+  }
+  
+  .nameselected{
+    font-size: 20px;
+    font-weight: bold;
+    align-self: center;
+  }
+  
+  .infoanimal{
+    display: flex;
+    flex-direction: column;
+    width: 120%;
+    gap: 10px;
+    background-color: #F1F1F1;
+    border-radius: 30px 30px 30px 30px;
+    align-items: left;
+    align-self: center;
+    padding: 20px;
+  }
+  
+  .infologo{
+    margin-top: 15px;
+    position: relative;
+    align-self: center;
+  }
+  
+  .logoanimalinfo{
+    margin: auto;
+    justify-self: center;
+    width: 100px;
+    height: 100px;
+    border: 5px solid white;
+    border-radius: 25%;
+    object-fit: cover;
+    object-position: center;
+    position: relative;
+  }
+  
+  .iconedit{
+    cursor: pointer;
+    opacity: 0;
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    left: 20%;
+    top: 15%;
+  }
+  
+  .editanimalmodal{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    justify-self: center;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    background-color: #F1F1F1;
+    position: absolute;
+    z-index: 999;
+    height: 600px;
+    width: 500px;
+    border-radius: 15px 15px 15px 15px;
+  }
+  
+  .changeimage{
+    display: flex;
+    gap: 25px;
+  }
+  
+  .changeimage img{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    align-self: center;
+    background-position: center;
+    background-size: cover;
+    object-fit: cover;
+    object-position: center;
+  }
+  
+  .animaldados{
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+    margin-bottom: 10px;
+  }
+  
+  .buttonsModal{
+    display: flex;
+    justify-content: space-between;
+    width: 55%;
+  }
+  
+  .saveLogoChange ,.cancelLogoChange{
+    cursor: pointer;
+    font-family: Poppins-Regular, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 7px;
+    border-radius: 15px 15px 15px 15px;
+  }
+  
+  .saveLogoChange{
+    background-color: #5C2976;
+    border: 2px solid #5C2976;
+    color: white;
+  }
+  
+  .saveLogoChange:hover{
+    background-color: white;
+    border: 2px solid #5C2976;
+    color: #5C2976;
+  }
+  
+  .cancelLogoChange{
+    background-color: white;
+    border: 2px solid #5C2976;
+    color: #5C2976;
+  }
+  
+  .cancelLogoChange:hover{
+    background-color: #5C2976;
+    border: 2px solid #5C2976;
+    color: white;
+  }
+  
+  .listadoEdit{
+    float: left;
+    width: 300px;
+    height: 400px;
+    margin-top: 20px;
+    justify-content: start;
+    overflow-y: scroll;
+  }
+  
+  .listedAnimals{
+    max-height:350px;
+    overflow:auto;
+  }
+  
+  .listadoEdit li{
+    font-size: 15px;
+    font-weight: bold;
+    margin: 10px;
+  }
+  
+  .sideItem{
+    width: 100px;
+    padding: 7px 150px 7px 7px;
+  }
+  
+  .sideItem a{
+    color: black;
+  }
+  
+  .sideItem:hover{
+    cursor: pointer;
+    background-color: #bebebe;
+  }
+  
+  .sideItem:active{
+    background-color: #959595;
+  }
+  
+  .inputs{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  }
+  
+  input[type="date"]::-webkit-calendar-picker-indicator {
+    display: none;
+  }
+  
+  .inputs p{
+    font-weight: bold;
+  }
+  
+  .inputs a{
+    cursor:default;
+    color: gray;
+  }
+  
+  .inputs input{
+    font-size: 16px;
+    background-color: #F1F1F1;
+    border: 0;
+    text-align: right;
+  }
+  
+  .infobtn{
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+    gap: 10px;
+    width: 50%;
+  }
+  
+  .editarbtn, .eliminarbtn{
+    font-family: Poppins-Regular, sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 5px;
+    cursor: pointer;
+    border-radius: 15px 15px 15px 15px;
+  }
+  
+  .eliminarbtn{
+    background-color: white;
+    border: 2px solid #5C2976;
+    color: #5C2976;
+  }
+  
+  .editarbtn{
+    background-color: #5C2976;
+    border: 2px solid #5C2976;
+    color: white;
+  }
+  
+  .eliminarbtn:hover{
+    background-color: #5C2976;
+    border: 2px solid #5C2976;
+    color: white;
+  }
+  
+  .editarbtn:hover{
+    background-color: white;
+    border: 2px solid #5C2976;
+    color: #5C2976;
+  }
+  
+  .eliminarbtn:active{
+    background-color: white;
+    border: 2px solid #5C2976;
+    color: #5C2976;
+  }
+  
+  .editarbtn:active{
+    background-color: #5C2976;
+    border: 2px solid #5C2976;
+    color: white;
+  }
+  

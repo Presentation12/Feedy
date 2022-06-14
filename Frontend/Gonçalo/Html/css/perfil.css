@@ -1,0 +1,114 @@
+  /*CONTAINER*/
+  
+  .container {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top:0;
+    margin-left: 255px;
+    margin-top: 10%;
+    line-height: 28px;
+    flex-direction: column;
+  }
+
+  .foto
+  {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 15px;
+  }
+
+  .foto:hover
+  {
+    opacity: 70%;
+    cursor: pointer;
+    transition: all 1s;
+  }
+
+h2{
+  margin-top: 30px;
+  font-size: 20px;
+}
+
+p
+{
+margin-top: 10px;
+margin-bottom: -5px;
+font-size: 12px;
+font-weight: bold;
+margin-left: 5px;
+}
+
+  input:not([type="submit"])
+  {
+    height: 25px;
+    width: 200px;
+    border-radius: 7px;
+    padding: 5px;
+    border: 2px solid gray;
+  }
+
+  input[type="submit"]
+  {
+    width: 90px;
+    height: 20px;
+    cursor: pointer;
+    color: white;
+    background-color: var(--purple);
+    border: 2px solid var(--purple);
+    font-size: 13px;
+    font-weight: bold;
+    border-radius: 15px;
+    transition: all 0.5s;
+    margin-top: 20px;
+
+  }
+
+  input[type="submit"]:hover
+  {
+    background-color: white;
+    color: var(--purple);
+    border-color: var(--purple);
+    transition: all 0.5s;
+  }
+
+
+  .infos
+  {
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+  }
+
+  .password
+  {
+    display: none;
+  }
+
+  input[id="edit2"]
+  {
+    display: block;
+  }
+
+  .buttons
+  {
+    display: none;
+  }
+
+  input:disabled
+  {
+    border: none;
+    background-color: rgb(214, 214, 214);
+  }
+
+  .ver
+  {
+    display: flex;
+  }
+
+  input[type="checkbox"]
+  {
+    margin-left: -70px;
+  }
